@@ -1,18 +1,62 @@
 % Doctoral Dissertation (Draft), by Amanda Sorribes
-\documentclass[11pt,b5paper]{book}
+\documentclass[11pt, b5paper]{book}
 
 \usepackage{Latex/Thesis_AS}
 \input{Latex/Thesis_AS_macros}
-
+\input{Latex/Thesis_AS_def}
 
 \begin{document}
 
-%\part{}
-%\chapter{}
-%\section{}
-%\subsection{}
-%\subsubsection{}
-%\paragraph{}
-%\subparagraph{}
+
+
+% === Front Matter === %
+
+% Start Pages not Numbered
+\include{Frontmatter/Titlepage}
+\maketitle
+%\newpage % doesn't work!
+\include{Frontmatter/Dedication}
+
+ % Start Roman Numbering
+\frontmatter
+\include{Frontmatter/Summary}
+\include{Frontmatter/Resumen}
+\include{Frontmatter/Acknowledgement}
+
+% TOC, LOF, LOT 
+\tableofcontents
+\listoffigures
+\listoftables
+%\makenomenclature
+
+
+% === Chapters === % 
+
+% Start Latin Numbering and Reset Page Numbering to 1
+\mainmatter
+
+% Include Chapters
+\include{Chapters/01_Introduction}
+\include{Chapters/02_Method_Drosophila}
+\include{Chapters/03_Method_Analysis}
+\include{Chapters/04_Bursts_Sleep}
+\include{Chapters/05_Bursts_Multimodal}
+\include{Chapters/06_Bursts_DecisionMaking}
+\include{Chapters/07_Electro_Ih}
+
+
+% === Back Matter === %
+
+
+% Include Conclusions
+\include{Backmatter/Conclusions}
+\include{Backmatter/Conclusiones}
+
+
+% Appendices
+%\appendix
+%\include{Backmatter/AppendixI}
+%\include{Backmatter/AppendixII} ...
+% References
 
 \end{document}
