@@ -1,0 +1,81 @@
+% Doctoral Dissertation (Draft), by Amanda Sorribes
+\documentclass[11pt,b5paper]{book}
+
+\usepackage{Latex/Thesis_AS}
+\input{Latex/Thesis_AS_macros}
+\input{Latex/Thesis_AS_def}
+
+
+\begin{document}
+
+% === Front Matter === %
+
+% Start Roman Numbering
+\frontmatter
+
+\include{Frontmatter/Titlepage}
+% Copyright Statement? (on reverse of title page) - check UAM regulations!
+\include{Frontmatter/Dedication}
+\include{Frontmatter/Acknowledgement}
+
+% Summaries
+\include{Frontmatter/Abstract}
+\include{Frontmatter/Resumen}
+
+% TOC, LOF, LOT
+\cleardoublepage
+\pdfbookmark[0]{Table of Contents}{Contents}
+\tableofcontents
+\listoffigures
+%\listoftables
+
+% Glossary (Nomenclature)
+\cleardoublepage
+\markboth{\MakeUppercase{\nomname}}{\MakeUppercase{\nomname}}
+\printnomenclature
+
+
+% === Chapters === %
+
+% Start Latin Numbering and Reset Page Numbering to 1
+\mainmatter
+
+% Chapters
+\include{Chapters/01_Introduction}
+\include{Chapters/02_Method_Drosophila}
+\include{Chapters/03_Method_Analysis}
+\include{Chapters/04_Bursts_Sleep}
+\include{Chapters/05_Bursts_Multimodal}
+\include{Chapters/06_Bursts_DecisionMaking}
+\include{Chapters/07_Electro_Ih}
+
+
+% === Back Matter === %
+
+% Conclusions
+\include{Backmatter/Conclusions}
+\include{Backmatter/Conclusiones}
+
+% Appendices
+%--> Uncomment section if needed
+% \cleardoublepage
+% \appendix
+% \appendixpage
+% \appendixtitletocon
+%   %\appendixtitleon
+%   %\appendixtocon
+%   %\noappendicestocpagenum
+% \include{Backmatter/AppendixI}
+% %\include{Backmatter/AppendixII} ...
+
+% References
+\cleardoublepage
+\bibliographystyle{plain}
+\bibliography{Bibliography/Thesis}
+
+% Lastly, Print a Crop Guide Page
+\newpage
+\thispagestyle{empty}
+{\crop[cross,axes]\mbox{}\newpage}
+
+\end{document}
