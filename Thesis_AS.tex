@@ -1,33 +1,32 @@
 % Doctoral Dissertation (Draft), by Amanda Sorribes
-\documentclass[11pt, b5paper]{book}
+\documentclass[11pt,b5paper]{book}
 
 \usepackage{Latex/Thesis_AS}
 \input{Latex/Thesis_AS_macros}
 \input{Latex/Thesis_AS_def}
 
+
 \begin{document}
-
-
 
 % === Front Matter === %
 
 % Start Pages not Numbered
 \include{Frontmatter/Titlepage}
-\maketitle
-%\newpage % doesn't work!
 \include{Frontmatter/Dedication}
 
  % Start Roman Numbering
 \frontmatter
+\include{Frontmatter/Acknowledgement}
 \include{Frontmatter/Summary}
 \include{Frontmatter/Resumen}
-\include{Frontmatter/Acknowledgement}
+
+% PAPERS THESIS HAS GIVE RISE TO!
 
 % TOC, LOF, LOT 
 \tableofcontents
 \listoffigures
 \listoftables
-%\makenomenclature
+\makenomenclature
 
 
 % === Chapters === % 
@@ -47,7 +46,6 @@
 
 % === Back Matter === %
 
-
 % Include Conclusions
 \include{Backmatter/Conclusions}
 \include{Backmatter/Conclusiones}
@@ -57,6 +55,14 @@
 %\appendix
 %\include{Backmatter/AppendixI}
 %\include{Backmatter/AppendixII} ...
+
 % References
+%\bibliographystyle{alpha}
+%\bibliography{mybib} %without extension!
+
+
+\newpage
+\thispagestyle{empty}
+{\crop[cross,axes]\mbox{}\newpage}
 
 \end{document}

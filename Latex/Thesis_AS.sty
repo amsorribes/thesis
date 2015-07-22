@@ -1,0 +1,61 @@
+
+% Language and Encoding Packages
+\usepackage[swedish,spanish,english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+
+% Set Paper Size to B5
+%\usepackage[a4paper,layout=b5paper]{geometry}
+\usepackage[b5paper]{geometry}
+\usepackage[a4,center]{crop} % Remove center for Binding!
+
+% Change Comments to Remove Frame and Put Crop/Cross Marks
+\crop[frame] %,noinfo removes file info
+%\crop[cross] %cam
+
+% Control Numbering of Levels in Text and TOC
+\setcounter{secnumdepth}{2}   % levels are: 0 - chapter, 1 - section
+\setcounter{tocdepth}{2}      %             2 - subsection, 3 - subsubsection
+% These settings imply that \subsubsection can be used as unnumbered small bold headings
+
+% Include Glossary in TOC
+\usepackage[intoc]{nomencl}
+\makenomenclature
+
+% Correct Page Number for Bibliography in TOC
+\usepackage[nottoc]{tocbibind}
+
+% Better Graphics & Captions
+\usepackage{graphicx}
+%\usepackage[pdftex]{graphics} % Added [pdftex] !
+\usepackage[margin=10pt,font=small,labelfont=bf]{caption}
+
+% Improve (turn off) overfull and underfull hboxes
+\hbadness=10000
+\hfuzz=50pt
+
+% Adjust Paragraph indentation
+\setlength{\parindent}{15pt} %5mm
+
+% Increase Line Spacing
+\renewcommand\baselinestretch{1.2}
+\baselineskip=18pt plus1pt
+
+% Use Fancy Header Package and Define Page Style Layout
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter. #1 }}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{}
+\fancyhead[RO]{\bfseries\rightmark}
+\fancyhead[LE]{\bfseries\leftmark}
+\fancyfoot[RO,LE]{\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\headheight}{3pt}
+\fancypagestyle{plain}{\fancyhead{}\renewcommand{\headrulewidth}{0pt}}
+
+% Change Font
+%\usepackage[T1]{fontenc}
+%\usepackage{efont,mathesf}
+%\renewcommand*\oldstylenums[1]{{\fontfamily{esfod}\selectfont#1}}
