@@ -3,6 +3,8 @@
 \usepackage[swedish,spanish,english]{babel}
 \usepackage[latin1]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{textcomp}
 \usepackage{amsfonts}
 
 % Better Graphics & Captions
@@ -45,11 +47,14 @@
 \hfuzz=50pt
 
 % Adjust Paragraph indentation
-\setlength{\parindent}{15pt} % Default: 18pt
+%\setlength{\parindent}{15pt} % Default: 18pt
 
 % Increase Line Spacing and Improve End of Page Handling
-\renewcommand\baselinestretch{1.2}
+\renewcommand\baselinestretch{1.25}
 \baselineskip=18pt plus1pt
+
+% Use Colors
+\usepackage{xcolor}
 
 % Use Fancy Header Package and Define Page Style Layout
 \usepackage{fancyhdr}
@@ -59,8 +64,8 @@
 \renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter. #1 }}{}}
 \renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
 \fancyhf{}
-\fancyhead[RO]{\bfseries\rightmark}
-\fancyhead[LE]{\bfseries\leftmark}
+\fancyhead[RO]{\sffamily\rightmark}%\bfseries\sffamily
+\fancyhead[LE]{\sffamily\leftmark}%\bfseries\sffamily
 \fancyfoot[RO,LE]{\thepage}
 \renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\footrulewidth}{0pt}
@@ -71,11 +76,12 @@
 
 
 % Change Fonts
-\usepackage{palatino}
-%\renewcommand{\cftchapterfont}{\normalfont\sffamily} 
+%\usepackage{palatino}
+\renewcommand{\rmdefault}{bch}%ppl
+%\renewcommand{\sfdefault}{cmss}
 \usepackage{sectsty}
 \allsectionsfont{\sffamily}
-%\allsectionsfont{\usefont{OT1}{phv}{bc}{n}\selectfont}
+%\allsectionsfont{\usefont{OT1}{pbk}{b}{n}\selectfont}
 
 %\usepackage[T1]{fontenc}
 %\usepackage{efont,mathesf}
