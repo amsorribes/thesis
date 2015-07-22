@@ -1,4 +1,3 @@
-
 % Language and Encoding Packages
 \usepackage[swedish,spanish,english]{babel}
 \usepackage[latin1]{inputenc}
@@ -76,13 +75,46 @@
 
 
 % Change Fonts
-%\usepackage{palatino}
 \renewcommand{\rmdefault}{bch}%ppl
 %\renewcommand{\sfdefault}{cmss}
 \usepackage{sectsty}
 \allsectionsfont{\sffamily}
 %\allsectionsfont{\usefont{OT1}{pbk}{b}{n}\selectfont}
 
-%\usepackage[T1]{fontenc}
-%\usepackage{efont,mathesf}
-%\renewcommand*\oldstylenums[1]{{\fontfamily{esfod}\selectfont#1}}
+
+% --- Add pdf Link Support --- %
+\usepackage[breaklinks,pagebackref]{hyperref} % use backref/pagebackref for back-citations to sections/pages
+
+\hypersetup{%
+  pdftitle={},
+  pdfauthor={Amanda Sorribes},
+  pdfsubject={Doctoral Dissertation},
+  pdfcreator={Amanda Sorribes},
+  pdfproducer={Amanda Sorribes},
+  %bookmarks=false,
+  unicode=false,
+  pdftoolbar=true,
+  pdfmenubar=false,
+  pdffitwindow=false,
+  pdfstartview={FitH},
+  pdfnewwindow=true,
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  filecolor=black,
+  urlcolor=blue,
+  linktoc=all
+}
+
+\renewcommand*{\backref}[1]{}
+\renewcommand*{\backrefalt}[4]{%
+\ifcase #1%
+(Not cited.)%
+\or
+(Cited on page~#2.)%
+\else
+(Cited on pages~#2.)%
+\fi}
+\renewcommand*{\backrefsep}{, }
+\renewcommand*{\backreftwosep}{ and~}
+\renewcommand*{\backreflastsep}{ and~}

@@ -8,21 +8,23 @@
 
 \begin{document}
 
+
 % === Front Matter === %
 
 % Start Pages not Numbered
+\pagenumbering{alph}
 \include{Frontmatter/Titlepage}
 \include{Frontmatter/Dedication}
 
- % Start Roman Numbering
+% Start Roman Numbering
 \frontmatter
 \include{Frontmatter/Acknowledgement}
 \include{Frontmatter/Abstract}
 \include{Frontmatter/Resumen}
 
-% PAPERS THESIS HAS GIVE RISE TO!
-
 % TOC, LOF, LOT, Glossary
+\cleardoublepage
+\pdfbookmark[0]{Contents}{Contents}
 \tableofcontents
 \listoffigures
 \listoftables
@@ -32,7 +34,7 @@
 \printnomenclature
 
 
-% === Chapters === % 
+% === Chapters === %
 
 % Start Latin Numbering and Reset Page Numbering to 1
 \mainmatter
@@ -66,16 +68,7 @@
 %\include{Backmatter/AppendixII} ...
 
 
-% \chapter*{\glossaryname}
-% \addcontentsline{toc}{chapter}{\glossaryname}
-% \printglossary
-% \addcontentsline{toc}{chapter}{\indexname}
-% \printindex
-
-
 % References
-\cleardoublepage
-\addcontentsline{toc}{chapter}{Bibliography}
 \bibliographystyle{alpha}
 \bibliography{mybib} %without extension!
 
