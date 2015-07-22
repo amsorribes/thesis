@@ -3,46 +3,58 @@
 \usepackage[swedish,spanish,english]{babel}
 \usepackage[latin1]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{amsfonts}
 
-% Set Paper Size to B5
-%\usepackage[a4paper,layout=b5paper]{geometry}
-\usepackage[b5paper]{geometry}
-\usepackage[a4,center]{crop} % Remove center for Binding!
+% Better Graphics & Captions
+\usepackage{graphicx}
+%\usepackage[pdftex]{graphics}
+\usepackage[margin=10pt,font=small,labelfont=bf]{caption}
 
-% Change Comments to Remove Frame and Put Crop/Cross Marks
-\crop[frame] %,noinfo removes file info
-%\crop[cross] %cam
 
+% --- Table of Contents --- %
 % Control Numbering of Levels in Text and TOC
 \setcounter{secnumdepth}{2}   % levels are: 0 - chapter, 1 - section
 \setcounter{tocdepth}{2}      %             2 - subsection, 3 - subsubsection
 % These settings imply that \subsubsection can be used as unnumbered small bold headings
 
-% Include Glossary in TOC
+% Add a Glossary and Include in TOC
 \usepackage[intoc]{nomencl}
 \makenomenclature
+\renewcommand{\nomname}{Glossary}
+\renewcommand{\nomlabel}[1]{\textbf{#1}}
 
 % Correct Page Number for Bibliography in TOC
 \usepackage[nottoc]{tocbibind}
 
-% Better Graphics & Captions
-\usepackage{graphicx}
-%\usepackage[pdftex]{graphics} % Added [pdftex] !
-\usepackage[margin=10pt,font=small,labelfont=bf]{caption}
+% Improved Handling of Appendices
+\usepackage[]{appendix} % toc,titletoc,page
+
+
+% --- Paper Size and Layout --- %
+% Set Paper Size to B5
+%\usepackage[a4paper,layout=b5paper]{geometry}
+\usepackage[b5paper]{geometry}
+\usepackage[a4,center]{crop} % Remove ``center'' for Binding, and change ``frame'' to ``cross'' below!
+
+% Change Comments to Remove Frame and Put Crop/Cross Marks
+\crop[frame] %,noinfo removes file info
+%\crop[cross] %or use ``cam''
 
 % Improve (turn off) overfull and underfull hboxes
 \hbadness=10000
 \hfuzz=50pt
 
 % Adjust Paragraph indentation
-\setlength{\parindent}{15pt} %5mm
+\setlength{\parindent}{15pt} % Default: 18pt
 
-% Increase Line Spacing
+% Increase Line Spacing and Improve End of Page Handling
 \renewcommand\baselinestretch{1.2}
 \baselineskip=18pt plus1pt
 
 % Use Fancy Header Package and Define Page Style Layout
 \usepackage{fancyhdr}
+
+% Fancy Page Style
 \pagestyle{fancy}
 \renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter. #1 }}{}}
 \renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
@@ -53,9 +65,18 @@
 \renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\footrulewidth}{0pt}
 \addtolength{\headheight}{3pt}
+
+% Plain Page Style (Used in First Page of Chapters)
 \fancypagestyle{plain}{\fancyhead{}\renewcommand{\headrulewidth}{0pt}}
 
-% Change Font
+
+% Change Fonts
+\usepackage{palatino}
+%\renewcommand{\cftchapterfont}{\normalfont\sffamily} 
+\usepackage{sectsty}
+\allsectionsfont{\sffamily}
+%\allsectionsfont{\usefont{OT1}{phv}{bc}{n}\selectfont}
+
 %\usepackage[T1]{fontenc}
 %\usepackage{efont,mathesf}
 %\renewcommand*\oldstylenums[1]{{\fontfamily{esfod}\selectfont#1}}
