@@ -8,27 +8,28 @@
 
 \begin{document}
 
-
 % === Front Matter === %
-
-% Start Pages not Numbered
-\pagenumbering{alph}
-\include{Frontmatter/Titlepage}
-\include{Frontmatter/Dedication}
 
 % Start Roman Numbering
 \frontmatter
+
+\include{Frontmatter/Titlepage}
+% Copyright Statement? (on reverse of title page) - check UAM regulations!
+\include{Frontmatter/Dedication}
 \include{Frontmatter/Acknowledgement}
+
+% Summaries
 \include{Frontmatter/Abstract}
 \include{Frontmatter/Resumen}
 
-% TOC, LOF, LOT, Glossary
+% TOC, LOF, LOT
 \cleardoublepage
-\pdfbookmark[0]{Contents}{Contents}
+\pdfbookmark[0]{Table of Contents}{Contents}
 \tableofcontents
 \listoffigures
-\listoftables
+%\listoftables
 
+% Glossary (Nomenclature)
 \cleardoublepage
 \markboth{\MakeUppercase{\nomname}}{\MakeUppercase{\nomname}}
 \printnomenclature
@@ -39,7 +40,7 @@
 % Start Latin Numbering and Reset Page Numbering to 1
 \mainmatter
 
-% Include Chapters
+% Chapters
 \include{Chapters/01_Introduction}
 \include{Chapters/02_Method_Drosophila}
 \include{Chapters/03_Method_Analysis}
@@ -51,27 +52,26 @@
 
 % === Back Matter === %
 
-% Include Conclusions
+% Conclusions
 \include{Backmatter/Conclusions}
 \include{Backmatter/Conclusiones}
-\cleardoublepage
 
 % Appendices
-\appendix
-\appendixpage
-\appendixtitletocon
-  %\appendixtitleon
-  %\appendixtocon
-  %\noappendicestocpagenum
-
-\include{Backmatter/AppendixI}
-%\include{Backmatter/AppendixII} ...
-
+%--> Uncomment section if needed
+% \cleardoublepage
+% \appendix
+% \appendixpage
+% \appendixtitletocon
+%   %\appendixtitleon
+%   %\appendixtocon
+%   %\noappendicestocpagenum
+% \include{Backmatter/AppendixI}
+% %\include{Backmatter/AppendixII} ...
 
 % References
-\bibliographystyle{alpha}
-\bibliography{mybib} %without extension!
-
+\cleardoublepage
+\bibliographystyle{plain}
+\bibliography{Bibliography/Thesis}
 
 % Lastly, Print a Crop Guide Page
 \newpage

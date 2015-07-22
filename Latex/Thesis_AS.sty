@@ -1,4 +1,5 @@
-% Language and Encoding Packages
+
+%- Language and Encoding Packages -%
 \usepackage[swedish,spanish,english]{babel}
 \usepackage[latin1]{inputenc}
 \usepackage[T1]{fontenc}
@@ -6,17 +7,148 @@
 \usepackage{textcomp}
 \usepackage{amsfonts}
 
-% Better Graphics & Captions
-\usepackage{graphicx}
-%\usepackage[pdftex]{graphics}
+%- Better Graphics & Captions -%
+\usepackage{graphicx}%\usepackage[pdftex]{graphics}
+\usepackage[pdftex,svgnames,x11names]{xcolor}
 \usepackage[margin=10pt,font=small,labelfont=bf]{caption}
 
 
+
+% --- Paper Size and Text Formatting --- %
+
+% Set Paper Size to B5
+%\usepackage[a4paper,layout=b5paper]{geometry}
+\usepackage[pdftex,b5paper]{geometry}
+\usepackage[a4,center]{crop} % Remove ``center'' for Binding, and change ``frame'' to ``cross'' below!
+
+% Change Comments to Remove Frame and Put Crop/Cross Marks
+\crop[frame] %,noinfo removes file info
+%\crop[cross] %or use ``cam''
+
+% Handle overfull and underfull hboxes
+  % badness measures the fit of the text on a line, with value between 0 (perfect) and 10000 (horrible).
+  % if badness > \hbadness or \vbadness, TeX reports the error as overfull or underfull box. 
+  % \hfuzz determines how much a line is allowed to extend past the right margin.
+  % \tolerance determines how to handle an overfull \hbox if the text does not fit within the line.
+
+\hbadness=5000   % default 1000. If set to 10000 TeX does not report underfull lines.
+\hfuzz=1pt   % default 0.1pt
+%\tolerance=500   % default 200
+%\emergencystretch=10pt
+\vbadness=5000
+\vfuzz=1pt
+
+% Use Improved Text Processing (nicer look of text)
+\usepackage{microtype}
+
+% Increase Line Spacing and Improve End of Page Handling
+\renewcommand\baselinestretch{1.25}
+\baselineskip=18pt plus2pt minus1pt
+
+% Adjust Paragraph indentation
+%\setlength{\parindent}{15pt} % Default: 18pt
+
+
+
+% --- Layout Style --- %
+
+% Define Chapter and Section Formats
+\usepackage{titlesec}
+\usepackage{tikz}
+%\usepackage{fix-cm}
+
+% Chapter
+\definecolor{boxcolor}{rgb}{0.825,0.825,0.825}
+\titleformat{\chapter}[display]
+{}
+{\hfill
+  \tikz[remember picture]
+  \node[](nr){};
+  \begin{tikzpicture}[overlay,remember picture]
+    \path [fill=boxcolor] (0,0) rectangle (-2.5,2.5);
+    \node at (-1.25,1.2) {\fontfamily{pnc} \fontsize{60}{100}\selectfont \color{white} \thechapter};
+  \end{tikzpicture}}
+{25pt}%{space between chapter number and title text}
+{\filleft\fontsize{29}{28}\bfseries\selectfont\sffamily}
+[]
+\titlespacing*{\chapter}{0pt}{35pt}{40pt}%{left}{space before title}{space after title}
+
+% Sections
+\titleformat{\section}[block]
+  {\Large\sffamily\bfseries}
+  {\thesection}
+  {.75em}
+  {}
+  []%[\titlerule\vspace{1ex}\filright]
+  
+\titleformat{\subsection}[hang]
+   {\large\sffamily\bfseries}
+   {\thesubsection}
+   {0.5em}
+   {}
+   {}
+%\titleformat{\subsubsection}[hang]{\small\sffamily\bfseries}{\thesubsubsection}{.5em}{\hspace{0.2in}}{}
+
+% Change Fonts
+\renewcommand{\rmdefault}{bch}
+
+% Add Thumb Index
+ %\usepackage{fancytabs}
+ %\fancytabsLeftColor{Black}
+ %\fancytabsRightColor{Black}
+ %\fancytabsFloor{\arabic{chapter}}
+ % or
+ %\usepackage{thumb}
+ %\setlength{\thumbheight}{5cm}
+ %\setlength{\thumbwidth}{5cm}
+
+% Use Fancy Header Package and Define Page Style Layout
+\usepackage{fancyhdr}
+
+% Fancy Page Style
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter. #1}}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{}
+\fancyhead[RO]{\sffamily\rightmark}%\bfseries
+\fancyhead[LE]{\sffamily\leftmark}%\bfseries
+\fancyfoot[RO,LE]{\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\headheight}{26pt}%{3pt}
+
+% Plain Page Style (Used in First Page of Chapters)
+\fancypagestyle{plain}{\fancyhead{}\renewcommand{\headrulewidth}{0pt}}
+ % \fancypagestyle{plain}{
+ %   \fancyhead[RO]{\fancytab{}{\thechapter}}
+ %   \renewcommand{\headrulewidth}{0pt}}
+
+% Empty Fill Page if Prev. Chapter does not Reach Odd Page Before New Chapter
+% Redefine \cleardouble page, to remove header and footer (i.e. blank page).
+\def\cleardoublepage{
+  \clearpage
+  \if@twoside
+    \ifodd\c@page
+    \else
+      \hbox{}
+      \thispagestyle{empty}
+      \newpage
+      \if@twocolumn
+        \hbox{}
+        \newpage
+      \fi
+    \fi
+  \fi
+}
+
+
+
 % --- Table of Contents --- %
+
 % Control Numbering of Levels in Text and TOC
+  % Setting these to 2 means that \subsubsection can be used as unnumbered small bold headings
 \setcounter{secnumdepth}{2}   % levels are: 0 - chapter, 1 - section
 \setcounter{tocdepth}{2}      %             2 - subsection, 3 - subsubsection
-% These settings imply that \subsubsection can be used as unnumbered small bold headings
 
 % Add a Glossary and Include in TOC
 \usepackage[intoc]{nomencl}
@@ -28,62 +160,13 @@
 \usepackage[nottoc]{tocbibind}
 
 % Improved Handling of Appendices
-\usepackage[]{appendix} % toc,titletoc,page
+\usepackage[]{appendix} % [toc,titletoc,page]
 
-
-% --- Paper Size and Layout --- %
-% Set Paper Size to B5
-%\usepackage[a4paper,layout=b5paper]{geometry}
-\usepackage[b5paper]{geometry}
-\usepackage[a4,center]{crop} % Remove ``center'' for Binding, and change ``frame'' to ``cross'' below!
-
-% Change Comments to Remove Frame and Put Crop/Cross Marks
-\crop[frame] %,noinfo removes file info
-%\crop[cross] %or use ``cam''
-
-% Improve (turn off) overfull and underfull hboxes
-\hbadness=10000
-\hfuzz=50pt
-
-% Adjust Paragraph indentation
-%\setlength{\parindent}{15pt} % Default: 18pt
-
-% Increase Line Spacing and Improve End of Page Handling
-\renewcommand\baselinestretch{1.25}
-\baselineskip=18pt plus1pt
-
-% Use Colors
-\usepackage{xcolor}
-
-% Use Fancy Header Package and Define Page Style Layout
-\usepackage{fancyhdr}
-
-% Fancy Page Style
-\pagestyle{fancy}
-\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter. #1 }}{}}
-\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
-\fancyhf{}
-\fancyhead[RO]{\sffamily\rightmark}%\bfseries\sffamily
-\fancyhead[LE]{\sffamily\leftmark}%\bfseries\sffamily
-\fancyfoot[RO,LE]{\thepage}
-\renewcommand{\headrulewidth}{0.5pt}
-\renewcommand{\footrulewidth}{0pt}
-\addtolength{\headheight}{3pt}
-
-% Plain Page Style (Used in First Page of Chapters)
-\fancypagestyle{plain}{\fancyhead{}\renewcommand{\headrulewidth}{0pt}}
-
-
-% Change Fonts
-\renewcommand{\rmdefault}{bch}%ppl
-%\renewcommand{\sfdefault}{cmss}
-\usepackage{sectsty}
-\allsectionsfont{\sffamily}
-%\allsectionsfont{\usefont{OT1}{pbk}{b}{n}\selectfont}
 
 
 % --- Add pdf Link Support --- %
-\usepackage[breaklinks,pagebackref]{hyperref} % use backref/pagebackref for back-citations to sections/pages
+\GetGinDriver
+\usepackage[\GinDriver,breaklinks,pagebackref]{hyperref} % use backref/pagebackref for back-citations to sections/pages
 
 \hypersetup{%
   pdftitle={},
@@ -118,3 +201,16 @@
 \renewcommand*{\backrefsep}{, }
 \renewcommand*{\backreftwosep}{ and~}
 \renewcommand*{\backreflastsep}{ and~}
+
+
+
+% --- Drafting the Document ---%
+
+% Margin Notes
+\usepackage[backgroundcolor=white,
+            linecolor=gray,
+            bordercolor=gray,
+            textsize=scriptsize]
+            {todonotes}
+
+%

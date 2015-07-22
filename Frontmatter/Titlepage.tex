@@ -1,16 +1,19 @@
+\cleardoublepage
+\pdfbookmark[0]{Titlepage}{Titlepage}
 \begin{titlepage}
 \newgeometry{hmargin=2.5cm,top=1.5cm,bottom=1.75cm}
 
 \begin{center}
 
 % Escudo de la UAM
-{\large Universidad AutÃ³noma de Madrid}
+{\large Universidad Autónoma de Madrid}
 \vspace{0.3cm}
 
 \includegraphics[width=0.175\textwidth]{Frontmatter/Escudo_UAM}
 \vspace{2.2cm}
 
 % Title
+% NB!! Set THESIS TITLE in Thesis_AS.sty FILE FOR PDF AS WELL!
 \fontsize{30}{24}\selectfont
 \textsc{ \huge Thesis Title Which Probably will be Quite Long So For Now Let's Keep it Three Rows}
 \vspace{2.0cm}
@@ -21,7 +24,7 @@
 \vspace{3.6cm}
 
 % Program, University, Advisor
-{\large \textsc{Doctoral Dissertation}}
+{\large \textsc{Doctoral Dissertation}}% submitted to the}
 \vspace{0.16cm}
 
 {\large Submitted to the}
@@ -30,66 +33,31 @@
 \textsc{\large Oficial Postgraduate Program of Biophysics}%\textsc
 \vspace{0.16cm}
 
-{\large Universidad AutÃ³noma de Madrid}
-\vspace{0.65cm}
+{\large Universidad Autónoma de Madrid}
+\vspace{0.16cm}
 
+{\normalsize (MONTH, YEAR)}
 
-{\large Adviser: Dr. Gonzalo \textsc{GarcÃ­a de Polavieja Embid}}
+%\vspace{0.65cm}
+\vfill
+
+{\large Adviser: Dr. Gonzalo \textsc{García de Polavieja Embid}}
 \vspace{0.15cm}
 
-{\large Departamento de FÃ­sica TeÃ³rica}
+{\large Departamento de Física Teórica}
 
 \vfill
 
 % Bottom of the page
-{\normalsize \today}
+%{\normalsize \today}
 
 \end{center}
 \restoregeometry
 \end{titlepage}
 
-
-
-
-
-
-
-
-% Define/Style Title Page
-%\title{Thesis Title}
-%\author{Amanda Sorribes}
-
-% Create Title Page
-%\maketitle
-
 % Set Back Side of Title Page Empty
 \thispagestyle{empty}
-%\clearpage
-%\cleardoublepage
 
-
-
-
-
-
-%\pdfinfo { /Title  (Thesis Title)
-%           /Creator (TeX)
-%           /Producer (pdfTeX)
-%           /Author (Amanda Sorribes amanda.sorribes@gmail.com)
-%           /CreationDate (D:YYYYMMDDhhmmss)  %format D:YYYYMMDDhhmmss
-%           /ModDate (D:YYYYMMDDhhmm)
-%           /Subject (xyz)
-%           /Keywords (add, your, keywords, here) }
-% \pdfcatalog { /PageMode (/UseOutlines)
-%               /OpenAction (fitbh)  }
-%
-%\newpage
-
-
-%\collegeordept{CollegeOrDept}
-%\university{University}
-%\crest{\includegraphics[width=4cm]{logo}}
-
-%\renewcommand{\submittedtext}{change the default text here if needed}
-%\degree{Philosophi\ae Doctor (PhD), DPhil,..}
-%\degreedate{year month}
+% Not needed really, but to remove latex warning
+\title{Dissertation}
+\author{Amanda Sorribes}
