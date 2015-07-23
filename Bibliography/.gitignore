@@ -1,0 +1,3 @@
+*.bib
+*.bib.part
+!Thesis.bib
