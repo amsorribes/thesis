@@ -15,7 +15,7 @@ Document Set-Up
 	- [x] Only one method chapter
 	- [x] First result chapter: join initial busts with multimodal
 	- [x] Put FlySiesta as a section in Sleep
-- [ ] Download and include natbib, change cites to name and year
+- [x] Download and include natbib, change cites to name and year
 
 
 Chapter 1: Introduction
