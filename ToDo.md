@@ -16,6 +16,7 @@ Document Set-Up
 	- [x] First result chapter: join initial busts with multimodal
 	- [x] Put FlySiesta as a section in Sleep
 - [x] Download and include natbib, change cites to name and year
+- [x] Fix Titlepage UTF-8 problem, so the \cite{} pop-up in LaTeXTools works
 
 
 Chapter 1: Introduction
