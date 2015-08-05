@@ -32,6 +32,7 @@ Chapter 2: Methods: Drosophila and Bursts (Experimental Procedures and Analysis)
 - [ ] Think of several chapter titles to choose between
 - [ ] Decide on chapter title
 - [x] Make preliminary outline of sections
+- [x] Clean chapter of notes and todo's and slasks
 
 ### Sections ###
 - [ ] Introduction
@@ -58,13 +59,13 @@ Chapter 2: Methods: Drosophila and Bursts (Experimental Procedures and Analysis)
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
 		- [x] write
-		- [ ] figure?
-	- [ ] Randomness, Burstiness and Memory
-		- [ ] write
-		- [ ] figure?
-	- [ ] ccdfs, exp and power-laws
-		- [ ] write
-		- [ ] figure?
+		- [ ] Make figure
+	- [x] Randomness, Burstiness and Memory
+		- [x] write
+		- [x] figure - No.
+	- [x] Finding simple functional forms
+		- [x] write
+		- [x] figure - No.
 
 
 
