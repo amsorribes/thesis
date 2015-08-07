@@ -35,17 +35,17 @@ Chapter 2: Methods: Drosophila and Bursts (Experimental Procedures and Analysis)
 - [x] Clean chapter of notes and todo's and slasks
 
 ### Sections ###
-- [ ] Introduction
-	- [ ] Read up on first history of Drosophila
-	- [ ] Read briefly on forward and backward genetics
-	- [ ] Look for references
-	- [ ] Finish writing
+- [x] Introduction
+	- [x] Read up on first history of Drosophila
+	- [x] Read briefly on forward and backward genetics
+	- [x] Look for references
+	- [x] Finish writing
 
 - [ ] Fly Life Cycle, Rearing and Genetic Manipulation
 	- [ ] Fly life-cycle (read, write, refs)
-	- [ ] Rearing: find /lab/ description (read, write, refs)
+	- [ ] Rearing (read, write, refs)
 	- [ ] Breeding (read, write, refs)
-	- [ ] Find references 
+	- [x] Find references
  	- [ ] Write section about Gal4/UAS
 
 - [ ] Measuring Drosophila's Innate Activity Patterns
