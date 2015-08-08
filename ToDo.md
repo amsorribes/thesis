@@ -27,26 +27,34 @@ Chapter 1: Introduction
 
 
 
-Chapter 2: Methods: Drosophila and Bursts (Experimental Procedures and Analysis)
------------------------------------------
-- [ ] Think of several chapter titles to choose between
-- [ ] Decide on chapter title
+Chapter 2: Drosophila as a Model Organism for Studying Bursts
+-------------------------------------------------------------
+Pre-writing:
+- [x] Think of several chapter titles to choose between
+- [x] Decide on chapter title
 - [x] Make preliminary outline of sections
+Post-writing:
 - [x] Clean chapter of notes and todo's and slasks
+- [ ] Review and make sure labels and refs are correct after settling on a chapter structure
+- [ ] Send out for proof reading
+- [ ] Address comments from proof readings
 
 ### Sections ###
-- [x] Introduction
-	- [x] Read up on first history of Drosophila
-	- [x] Read briefly on forward and backward genetics
-	- [x] Look for references
-	- [x] Finish writing
+- [x] Overview
+- [ ] Drosophila melanogaster as a Model Organism
+	- [x] Introduction
+		- [x] Read up on first history of Drosophila
+		- [x] Read briefly on forward and backward genetics
+		- [x] Look for references
+		- [x] Finish writing
 
-- [ ] Fly Life Cycle, Rearing and Genetic Manipulation
-	- [ ] Fly life-cycle (read, write, refs)
-	- [ ] Rearing (read, write, refs)
-	- [ ] Breeding (read, write, refs)
-	- [x] Find references
- 	- [ ] Write section about Gal4/UAS
+	- [x] Fly Life Cycle, Rearing and Genetic Manipulation
+		- [x] Fly life-cycle
+		- [x] Rearing
+		- [x] Breeding
+		- [x] Find references
+ 	
+ 	- [ ] Write section about GAL4/UAS
 
 - [ ] Measuring Drosophila's Innate Activity Patterns
 	- [ ] par1, cites (environmental factors, incubators)
@@ -58,19 +66,15 @@ Chapter 2: Methods: Drosophila and Bursts (Experimental Procedures and Analysis)
 - [ ] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
-		- [x] write
 		- [ ] Make figure
 	- [x] Randomness, Burstiness and Memory
-		- [x] write
-		- [x] figure - No.
 	- [x] Finding simple functional forms
-		- [x] write
-		- [x] figure - No.
 
 
 
-Chapter 3: Shape k & Multimodal
--------------------------------
+
+Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
+--------------------------------------------------------------
 - [ ] Think of several chapter titles to choose between
 - [ ] Decide on chapter title
 - [x] Make preliminary outline of sections
