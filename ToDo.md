@@ -18,6 +18,7 @@ Document Set-Up
 - [x] Download and include natbib, change cites to name and year
 - [x] Fix Titlepage UTF-8 problem, so the \cite{} pop-up in LaTeXTools works
 - [ ] Make nomencl package work? It used to, not anymore. Looked for solution, didn't find one. Possibly later, if time.
+- [x] Style bibliography
 
 Chapter 1: Introduction
 -----------------------
@@ -33,6 +34,7 @@ Pre-writing:
 - [x] Think of several chapter titles to choose between
 - [x] Decide on chapter title
 - [x] Make preliminary outline of sections
+
 Post-writing:
 - [x] Clean chapter of notes and todo's and slasks
 - [ ] Review and make sure labels and refs are correct after settling on a chapter structure
@@ -47,16 +49,16 @@ Post-writing:
 		- [x] Read briefly on forward and backward genetics
 		- [x] Look for references
 		- [x] Finish writing
-
 	- [x] Fly Life Cycle, Rearing and Genetic Manipulation
 		- [x] Fly life-cycle
 		- [x] Rearing
 		- [x] Breeding
 		- [x] Find references
- 	
- 	- [ ] Write section about GAL4/UAS
+ 	- [x] Write section about GAL4/UAS
+ 	- [ ] Find and fill all [cite]'s!
 
 - [ ] Measuring Drosophila's Innate Activity Patterns
+	- [ ] Recover the changes in the .txt file(s?)
 	- [ ] par1, cites (environmental factors, incubators)
 	- [ ] par2, cites (social influence)
 	- [ ] par3, cites (DAMS)
