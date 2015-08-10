@@ -16,15 +16,18 @@ Document Set-Up
 	- [x] First result chapter: join initial busts with multimodal
 	- [x] Put FlySiesta as a section in Sleep
 - [x] Download and include natbib, change cites to name and year
-- [x] Fix Titlepage UTF-8 problem, so the \cite{} pop-up in LaTeXTools works
+- [x] Fix Title page UTF-8 problem, so the \cite{} pop-up in LaTeXTools works
 - [ ] Make nomencl package work? It used to, not anymore. Looked for solution, didn't find one. Possibly later, if time.
 - [x] Style bibliography
+- [x] Join chapters into larger, themed chapters
+	- [ ] Implement in chapters
+
+
 
 Chapter 1: Introduction
 -----------------------
 - [x] Decide on title
 - [ ] Find quote to possibly start with (yes, very cheesy)
-
 
 
 
@@ -43,6 +46,7 @@ Post-writing:
 
 ### Sections ###
 - [x] Overview
+
 - [ ] Drosophila melanogaster as a Model Organism
 	- [x] Introduction
 		- [x] Read up on first history of Drosophila
@@ -72,6 +76,7 @@ Post-writing:
 	- [x] Randomness, Burstiness and Memory
 	- [x] Finding simple functional forms
 
+- [ ] Summary??
 
 
 
@@ -80,41 +85,56 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 - [ ] Think of several chapter titles to choose between
 - [ ] Decide on chapter title
 - [x] Make preliminary outline of sections
+- [x] Decide if multimodal before or after decision-making - before
 
-### Sections ###
-- [ ] Introduction
+### Chapter Parts ###
+- [ ] Overview
 
-- [ ] Shape k
+- [ ] Large-scale/long-range time, walking bursts
 	- [ ] Think of section title
-	- [ ] Intro-text (without its own heading, right after section title)
+	- [ ] Introduction
+		- [ ] What's been done in Drosophila before
+		- [ ] Long time scales missing
+		- [ ] What we did to fill this gap
 	- [ ] Experimental Procedure
 	- [ ] Results (Change title to Descriptive instead?)
-	- [ ] Conclusions
+	- [ ] Discussion
 
 - [ ] Multimodal
 	- [ ] Think of section title
-	- [ ] Intro-text (without its own heading, right after section title)
+	- [ ] Introduction
+		- [ ] Bursts, power laws, marine animals, predators
+		- [ ] Multimodal missing
+		- [ ] What we did to fill this gap
 	- [ ] Experimental Procedure
 		- [x] write ref "exp_multimodal" in experimental section of Multimodal experiment
 		- [ ] my WTB DAMS
 		- [ ] Describe flight simulator briefly
 	- [ ] Results (Change title to Descriptive instead?)
-	- [ ] Conclusions
+	- [ ] Discussion
 
-- [ ] Discussion
+- [ ]  Bursts Decision-Making
+	- [ ] Think of section title
+	- [ ] Introduction
+	- [ ] Experimental Procedure
+	- [ ] Results (Change title to Descriptive instead?)
+	- [ ] Discussion
+
+- [ ] Summary
 
 
 
-
-Chapter 4: Bursts Sleep
------------------------
+Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
+-------------------------------------------------------------
 - [ ] Think of several chapter titles to choose between
 - [ ] Decide on chapter title
 - [ ] Make preliminary outline of sections
 
-### Sections ###
+### Chapter Parts ###
+- [ ] Overview
+
 - [ ] Introduction
-	- [ ] Sleep, the big questions, the different hypotheses 
+	- [ ] Sleep, the big questions, the different hypotheses (Do I need this? Not really relevant to my studies - Maybe yes but short, 1 paragraph)
 	- [ ] Sleep research in model organisms (generally, short, specifics in each sections introduction!)
 	- [ ] Fine-scale dynamics of sleep in other organisms
 
@@ -122,9 +142,10 @@ Chapter 4: Bursts Sleep
 	- [ ] Introduction
 		- [ ] Sleep in Drosophila
 		- [ ] The fine-scale dynamics of sleep in Drosophila has never been studied before
+		- [ ] What we did to fill this gap
 	- [ ] Experimental Procedure
 	- [ ] Results
-	- [ ] Conclusions
+	- [ ] Discussion
 
 - [ ] FlySiesta Analysis Suite & Bursts Toolbox
 	- [ ] Introduction
@@ -136,32 +157,39 @@ Chapter 4: Bursts Sleep
 	- [ ] Introduction
 		- [ ] Sleep in zebrafish
 		- [ ] The fine-scale dynamics of sleep in zebrafish has never been studied before
+		- [ ] What we did to fill this gap
 	- [ ] Experimental Procedure
 	- [ ] Results
-	- [ ] Conclusions
+	- [ ] Discussion
 
-- [ ] Discussion
-
-
-
-Chapter 5: Bursts Decision-Making
----------------------------------
-- [ ] Think of several chapter titles to choose between
-- [ ] Decide on chapter title
-- [ ] Make preliminary outline of sections
+- [ ] Summary
 
 
 
-
-
-Chapter 6: Electro Ih
+Chapter 5: Electro Ih
 ---------------------
 - [ ] Think of several chapter titles to choose between
 - [ ] Decide on chapter title
 - [ ] Make preliminary outline of sections
 
+### Chapter Parts ###
+- [ ] Overview
 
+- [ ] Sleep Dynamics in Ih 
+	- [ ] Introduction
+		- [ ] Sleep & Dopamine and Ih
+	- [ ] Experimental Procedure
+	- [ ] Results
+	- [ ] Discussion
 
+- [ ] Electrophysiological study of the Ih NMJ
+	- [ ] Introduction
+		- [ ] Decide how much of the other results to present
+	- [ ] Experimental Procedure
+	- [ ] Results
+	- [ ] Discussion
+
+- [ ] Summary
 
 
 
