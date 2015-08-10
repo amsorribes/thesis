@@ -21,6 +21,7 @@ Document Set-Up
 - [x] Style bibliography
 - [x] Join chapters into larger, themed chapters
 	- [x] Implement in chapters
+- [x] Find a narrower fond for section titles, many long
 
 
 

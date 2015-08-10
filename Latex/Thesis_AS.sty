@@ -57,6 +57,10 @@
 \usepackage{tikz}
 %\usepackage{fix-cm}
 
+% Change Font on Chapter and Section
+\usepackage{gentium}
+\renewcommand{\sfdefault}{gentium}
+
 % Chapter
 \definecolor{boxcolor}{rgb}{0.825,0.825,0.825}
 \titleformat{\chapter}[display]
@@ -74,11 +78,11 @@
 \titlespacing*{\chapter}{0pt}{35pt}{40pt}%{left}{space before title}{space after title}
 
 % Sections
-\titleformat{\section}[block]
+\titleformat{\section}%[block]
   {\Large\sffamily\bfseries}
   {\thesection}
-  {.75em}
-  {}
+  {.75em}%{.75em}
+  {\hspace{-0.25em}}%{}
   []%[\titlerule\vspace{1ex}\filright]
   
 \titleformat{\subsection}[hang]
@@ -88,6 +92,7 @@
    {}
    {}
 %\titleformat{\subsubsection}[hang]{\small\sffamily\bfseries}{\thesubsubsection}{.5em}{\hspace{0.2in}}{}
+
 
 % Change Fonts
 \renewcommand{\rmdefault}{bch}
@@ -221,4 +226,6 @@
             textsize=scriptsize]
             {todonotes}
 
+\usepackage{comment}
+%\excludecomment{draft}
 %
