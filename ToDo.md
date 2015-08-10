@@ -20,7 +20,7 @@ Document Set-Up
 - [ ] Make nomencl package work? It used to, not anymore. Looked for solution, didn't find one. Possibly later, if time.
 - [x] Style bibliography
 - [x] Join chapters into larger, themed chapters
-	- [ ] Implement in chapters
+	- [x] Implement in chapters
 
 
 
@@ -76,6 +76,8 @@ Post-writing:
 	- [x] Randomness, Burstiness and Memory
 	- [x] Finding simple functional forms
 
+- [ ] Statistical Analysis
+
 - [ ] Summary??
 
 
@@ -90,33 +92,33 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 ### Chapter Parts ###
 - [ ] Overview
 
-- [ ] Large-scale/long-range time, walking bursts
-	- [ ] Think of section title
+- [ ] Characterization of Drosophila Walking Dynamics
+	- [x] Think of section title
 	- [ ] Introduction
 		- [ ] What's been done in Drosophila before
 		- [ ] Long time scales missing
 		- [ ] What we did to fill this gap
-	- [ ] Experimental Procedure
+	- [ ] Material and Methods
 	- [ ] Results (Change title to Descriptive instead?)
 	- [ ] Discussion
 
-- [ ] Multimodal
-	- [ ] Think of section title
+- [ ] A Common Framework Across Behaviors
+	- [x] Think of section title
 	- [ ] Introduction
 		- [ ] Bursts, power laws, marine animals, predators
 		- [ ] Multimodal missing
 		- [ ] What we did to fill this gap
-	- [ ] Experimental Procedure
+	- [ ] Material and Methods
 		- [x] write ref "exp_multimodal" in experimental section of Multimodal experiment
 		- [ ] my WTB DAMS
 		- [ ] Describe flight simulator briefly
 	- [ ] Results (Change title to Descriptive instead?)
 	- [ ] Discussion
 
-- [ ]  Bursts Decision-Making
-	- [ ] Think of section title
+- [ ]  Behavioral Bursts and Decision-Making Circuits
+	- [x] Think of section title
 	- [ ] Introduction
-	- [ ] Experimental Procedure
+	- [ ] Material and Methods
 	- [ ] Results (Change title to Descriptive instead?)
 	- [ ] Discussion
 
@@ -143,7 +145,7 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 		- [ ] Sleep in Drosophila
 		- [ ] The fine-scale dynamics of sleep in Drosophila has never been studied before
 		- [ ] What we did to fill this gap
-	- [ ] Experimental Procedure
+	- [ ] Material and Methods
 	- [ ] Results
 	- [ ] Discussion
 
@@ -158,7 +160,7 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 		- [ ] Sleep in zebrafish
 		- [ ] The fine-scale dynamics of sleep in zebrafish has never been studied before
 		- [ ] What we did to fill this gap
-	- [ ] Experimental Procedure
+	- [ ] Material and Methods
 	- [ ] Results
 	- [ ] Discussion
 
@@ -166,7 +168,7 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 
 
 
-Chapter 5: Electro Ih
+Chapter 5: Ih
 ---------------------
 - [ ] Think of several chapter titles to choose between
 - [ ] Decide on chapter title
@@ -178,14 +180,14 @@ Chapter 5: Electro Ih
 - [ ] Sleep Dynamics in Ih 
 	- [ ] Introduction
 		- [ ] Sleep & Dopamine and Ih
-	- [ ] Experimental Procedure
+	- [ ] Material and Methods
 	- [ ] Results
 	- [ ] Discussion
 
 - [ ] Electrophysiological study of the Ih NMJ
 	- [ ] Introduction
 		- [ ] Decide how much of the other results to present
-	- [ ] Experimental Procedure
+	- [ ] Material and Methods
 	- [ ] Results
 	- [ ] Discussion
 
