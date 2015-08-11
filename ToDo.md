@@ -22,7 +22,7 @@ Document Set-Up
 - [x] Join chapters into larger, themed chapters
 	- [x] Implement in chapters
 - [x] Find a narrower fond for section titles, many long
-
+- [x] Fix Overview sections in toc
 
 
 Chapter 1: Introduction
@@ -79,7 +79,7 @@ Post-writing:
 
 - [ ] Statistical Analysis
 
-- [ ] Summary??
+- [ ] Summary
 
 
 
@@ -100,7 +100,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [ ] Long time scales missing
 		- [ ] What we did to fill this gap
 	- [ ] Material and Methods
-	- [ ] Results (Change title to Descriptive instead?)
+	- [ ] Results (Change title to Descriptive instead? - No, create subsections with result titles)
 	- [ ] Discussion
 
 - [ ] A Common Framework Across Behaviors
@@ -113,14 +113,14 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] write ref "exp_multimodal" in experimental section of Multimodal experiment
 		- [ ] my WTB DAMS
 		- [ ] Describe flight simulator briefly
-	- [ ] Results (Change title to Descriptive instead?)
+	- [ ] Results
 	- [ ] Discussion
 
 - [ ]  Behavioral Bursts and Decision-Making Circuits
 	- [x] Think of section title
 	- [ ] Introduction
 	- [ ] Material and Methods
-	- [ ] Results (Change title to Descriptive instead?)
+	- [ ] Results
 	- [ ] Discussion
 
 - [ ] Summary
