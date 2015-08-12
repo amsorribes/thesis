@@ -90,6 +90,8 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 - [ ] Decide on chapter title
 - [x] Make preliminary outline of sections
 - [x] Decide if multimodal before or after decision-making - before
+- [x] Sort comments into Notes file, most about ch 3
+- [ ] Go over, organize? notes file, use some in ch 3
 
 ### Chapter Parts ###
 - [ ] Overview
