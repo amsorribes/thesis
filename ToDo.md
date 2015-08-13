@@ -41,29 +41,32 @@ Pre-writing:
 - [x] Decide on chapter title
 - [x] Make preliminary outline of sections
 
-Post-writing:
+Finalizing:
 - [x] Clean chapter of notes and todo's and slasks
 - [ ] Review and make sure labels and refs are correct after settling on a chapter structure
+
+Post-writing:
 - [ ] Send out for proof reading
 - [ ] Address comments from proof readings
 
-### Sections ###
+### Figures ###
+- [ ] Decide which figures should be included
+- [ ] Find/Make/Include figures:
+	- [ ] Photo/illustration of female and male Drosophila flies
+	- [ ] 3D model/photo of a DAMS monitor
+	- [ ] Incubator with tray and DAMS in place
+	- [ ] Counts to bouts illustration
+
+### Writing ###
 - [x] Overview
 	- [x] Rework Overview to include Statistical Analysis
 
 - [x] Drosophila melanogaster as a Model Organism
-	** Fix/ToDo **
- 	- [x] Find and fill all [cite]'s!
- 	** Sections **
 	- [x] Introduction
 	- [x] Fly Life Cycle, Rearing and Breeding
  	- [x] GAL4/UAS
 
 - [ ] Measuring Drosophila's Innate Activity Patterns
-	** Fix/ToDo **
-	- [x] Recover the changes in the .txt file(s?)
-	- [x] Include subheadings
- 	** Sections **
 	- [ ] Environmental Conditions
 		- [ ] par1, cites (environmental factors, incubators)
 		- [ ] par2, cites (social influence)
@@ -73,9 +76,6 @@ Post-writing:
 		- [ ] par5, cites (video)
 	
 - [ ] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
-	** Fix/ToDo **
-		- [ ] Make figure for Counts to Bouts
- 	** Sections **	
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
 	- [x] Randomness, Burstiness and Memory
