@@ -52,6 +52,8 @@ Post-writing:
 	- [x] Rework Overview to include Statistical Analysis
 
 - [ ] Drosophila melanogaster as a Model Organism
+	** Fix/ToDo **
+ 	** Sections **
 	- [x] Introduction
 		- [x] Read up on first history of Drosophila
 		- [x] Read briefly on forward and backward genetics
@@ -66,17 +68,21 @@ Post-writing:
  	- [ ] Find and fill all [cite]'s!
 
 - [ ] Measuring Drosophila's Innate Activity Patterns
-	- [ ] Recover the changes in the .txt file(s?)
 	- [ ] par1, cites (environmental factors, incubators)
 	- [ ] par2, cites (social influence)
 	- [ ] par3, cites (DAMS)
 	- [x] par4 (Environment, monitors)
 	- [ ] par5, cites (video)
+	** Fix/ToDo **
+	- [x] Recover the changes in the .txt file(s?)
+ 	** Sections **
 	
 - [ ] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
+	** Fix/ToDo **
+		- [ ] Make figure for Counts to Bouts
+ 	** Sections **	
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
-		- [ ] Make figure
 	- [x] Randomness, Burstiness and Memory
 	- [x] Finding simple functional forms
 
