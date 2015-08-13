@@ -23,6 +23,8 @@ Document Set-Up
 	- [x] Implement in chapters
 - [x] Find a narrower fond for section titles, many long
 - [x] Fix Overview sections in toc
+- [x] Move nomenclature definitions from in-text to Glossary.tex file
+- [x] Make a stand alone Glossary (manual) file for use if I don't get the nomencl package to work
 
 
 Chapter 1: Introduction
