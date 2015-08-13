@@ -51,31 +51,26 @@ Post-writing:
 - [x] Overview
 	- [x] Rework Overview to include Statistical Analysis
 
-- [ ] Drosophila melanogaster as a Model Organism
+- [x] Drosophila melanogaster as a Model Organism
 	** Fix/ToDo **
+ 	- [x] Find and fill all [cite]'s!
  	** Sections **
 	- [x] Introduction
-		- [x] Read up on first history of Drosophila
-		- [x] Read briefly on forward and backward genetics
-		- [x] Look for references
-		- [x] Finish writing
-	- [x] Fly Life Cycle, Rearing and Genetic Manipulation
-		- [x] Fly life-cycle
-		- [x] Rearing
-		- [x] Breeding
-		- [x] Find references
- 	- [x] Write section about GAL4/UAS
- 	- [ ] Find and fill all [cite]'s!
+	- [x] Fly Life Cycle, Rearing and Breeding
+ 	- [x] GAL4/UAS
 
 - [ ] Measuring Drosophila's Innate Activity Patterns
-	- [ ] par1, cites (environmental factors, incubators)
-	- [ ] par2, cites (social influence)
-	- [ ] par3, cites (DAMS)
-	- [x] par4 (Environment, monitors)
-	- [ ] par5, cites (video)
 	** Fix/ToDo **
 	- [x] Recover the changes in the .txt file(s?)
+	- [x] Include subheadings
  	** Sections **
+	- [ ] Environmental Conditions
+		- [ ] par1, cites (environmental factors, incubators)
+		- [ ] par2, cites (social influence)
+	- [ ] Drosophila Activity Monitor System
+		- [ ] par3, cites (DAMS)
+		- [x] par4 (Environment, monitors)
+		- [ ] par5, cites (video)
 	
 - [ ] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
 	** Fix/ToDo **
