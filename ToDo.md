@@ -52,9 +52,9 @@ Post-writing:
 ### Figures ###
 - [ ] Decide which figures should be included
 - [ ] Find/Make/Include figures:
-	- [ ] Photo/illustration of female and male Drosophila flies
 	- [ ] 3D model/photo of a DAMS monitor
 	- [ ] Incubator with tray and DAMS in place
+	- [x] Illustration of female and male Drosophila flies
 	- [ ] Counts to bouts illustration
 
 ### Writing ###
