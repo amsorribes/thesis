@@ -61,7 +61,6 @@ Post-writing:
 
 ### Writing ###
 - [x] Overview
-	- [x] Rework Overview to include Statistical Analysis
 
 - [x] Drosophila melanogaster as a Model Organism
 	- [x] Introduction
@@ -70,12 +69,7 @@ Post-writing:
 
 - [x] Measuring Drosophila's Innate Activity Patterns
 	- [x] Environmental Conditions
-		- [x] par1, cites (environmental factors, incubators)
-		- [x] par2, cites (social influence)
 	- [x] Drosophila Activity Monitor System
-		- [x] par3, cites (DAMS)
-		- [x] par4 (Environment, monitors)
-		- [x] par5, cites (video)
 	
 - [ ] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
 	- [x] What is fine-scale dynamics
