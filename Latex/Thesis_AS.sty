@@ -20,7 +20,9 @@
 % Set Paper Size to B5
 %\usepackage[a4paper,layout=b5paper]{geometry}
 \usepackage[pdftex,b5paper]{geometry}
-\usepackage[a4,center]{crop} % Remove ``center'' for Binding, and change ``frame'' to ``cross'' below!
+%-- For Final PDF, use b5, For printing + cropping, use a4
+\usepackage[b5,center]{crop} % This is without frame
+%\usepackage[a4,center]{crop} % Remove ``center'' for Binding, and change ``frame'' to ``cross'' below!
 
 % Change Comments to Remove Frame and Put Crop/Cross Marks
 \crop[frame] %,noinfo removes file info
