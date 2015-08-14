@@ -66,14 +66,14 @@ Post-writing:
 	- [x] Fly Life Cycle, Rearing and Breeding
  	- [x] GAL4/UAS
 
-- [ ] Measuring Drosophila's Innate Activity Patterns
-	- [ ] Environmental Conditions
-		- [ ] par1, cites (environmental factors, incubators)
-		- [ ] par2, cites (social influence)
-	- [ ] Drosophila Activity Monitor System
-		- [ ] par3, cites (DAMS)
+- [x] Measuring Drosophila's Innate Activity Patterns
+	- [x] Environmental Conditions
+		- [x] par1, cites (environmental factors, incubators)
+		- [x] par2, cites (social influence)
+	- [x] Drosophila Activity Monitor System
+		- [x] par3, cites (DAMS)
 		- [x] par4 (Environment, monitors)
-		- [ ] par5, cites (video)
+		- [x] par5, cites (video)
 	
 - [ ] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
 	- [x] What is fine-scale dynamics
