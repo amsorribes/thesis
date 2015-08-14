@@ -209,9 +209,17 @@
 %\renewcommand*{\backreflastsep}{ and~}
 
 
-% --- Author-Year Bibliography Style --- %
-\usepackage[sort]{natbib}
-\bibpunct{(}{)}{;}{a}{,}{,}
+% --- Bibliography Style --- %
+% - Numbers -
+\usepackage[numbers, sort&compress]{natbib}
+\bibpunct{[}{]}{,}{n}{,}{,}
+\bibliographystyle{myunsrtnat}
+
+% - Author-Year -
+%\usepackage[sort]{natbib}
+%\bibliographystyle{myplainnat} 
+%\bibpunct{(}{)}{;}{a}{,}{,}
+
 % Change size of bibliography
 \renewcommand{\bibfont}{\normalfont\small}
 \setlength{\bibsep}{4pt}
