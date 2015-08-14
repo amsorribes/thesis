@@ -43,14 +43,16 @@ Pre-writing:
 
 Finalizing:
 - [x] Clean chapter of notes and todo's and slasks
-- [ ] Review and make sure labels and refs are correct after settling on a chapter structure
+- [x] Review and make sure labels and refs are correct after settling on a chapter structure
+- [ ] Review all todoNotes in the document!
+- [ ] Change web page references from footnotes to citations
 
 Post-writing:
 - [ ] Send out for proof reading
 - [ ] Address comments from proof readings
 
 ### Figures ###
-- [ ] Decide which figures should be included
+- [x] Decide which figures should be included
 - [ ] Find/Make/Include figures:
 	- [x] Illustration of female and male Drosophila flies
 	- [x] Photo of a DAMS monitor
@@ -79,6 +81,7 @@ Post-writing:
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
 	- [x] Randomness, Burstiness and Memory
+		- [ ] Review all todo-notes!!
 	- [x] Finding simple functional forms
 
 - [ ] Statistical Analysis
