@@ -10,9 +10,10 @@
 %- Better Graphics & Captions -%
 \usepackage{graphicx}%\usepackage[pdftex]{graphics}
 \usepackage[pdftex,svgnames,x11names]{xcolor}
-\usepackage[margin=10pt,font=small,labelfont=bf]{caption}
+\usepackage[margin=1cm,font=small,labelfont=bf]{caption}
 
-
+\usepackage[bottom]{footmisc} % Force footnotes below figures
+\raggedbottom  % Un-force paragraphs to the bottom, removing stretched whitespace between them
 
 % --- Paper Size and Text Formatting --- %
 
@@ -24,6 +25,7 @@
 % Change Comments to Remove Frame and Put Crop/Cross Marks
 \crop[frame] %,noinfo removes file info
 %\crop[cross] %or use ``cam''
+
 
 % Handle overfull and underfull hboxes
   % badness measures the fit of the text on a line, with value between 0 (perfect) and 10000 (horrible).
@@ -171,8 +173,8 @@
 
 % --- Add pdf Link Support --- %
 \GetGinDriver
-\usepackage[\GinDriver,breaklinks]{hyperref} % use backref/pagebackref for back-citations to sections/pages
-%\usepackage[\GinDriver,breaklinks,pagebackref]{hyperref}
+\usepackage[\GinDriver,breaklinks]{hyperref} 
+%\usepackage[\GinDriver,breaklinks,pagebackref]{hyperref} % use backref/pagebackref for back-citations to sections/pages
 
 \hypersetup{%
   pdftitle={},
@@ -191,7 +193,7 @@
   linkcolor=black,
   citecolor=black,
   filecolor=black,
-  urlcolor=blue,
+  urlcolor=black,
   linktoc=all
 }
 
