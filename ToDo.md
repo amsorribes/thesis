@@ -58,8 +58,8 @@ Post-writing:
 	- [x] Illustration of female and male Drosophila flies
 	- [x] Photo of a DAMS monitor
 	- [x] Incubator and DAMS in place
-	- [ ] Counts to bouts illustration
-		- [ ] Write caption
+	- [x] Counts to bouts illustration
+		- [x] Write caption
 	- [ ] Poisson, burstiness and memory, from Goh & Barabasi, 2008
 		- [ ] Write caption
 
