@@ -54,14 +54,14 @@ Post-writing:
 
 ### Figures ###
 - [x] Decide which figures should be included
-- [ ] Find/Make/Include figures and write captions:
+- [x] Find/Make/Include figures and write captions:
 	- [x] Illustration of female and male Drosophila flies
 	- [x] Photo of a DAMS monitor
 	- [x] Incubator and DAMS in place
 	- [x] Counts to bouts illustration
 		- [x] Write caption
-	- [ ] Poisson, burstiness and memory, from Goh & Barabasi, 2008
-		- [ ] Write caption
+	- [x] Poisson, burstiness and memory, from Goh & Barabasi, 2008
+		- [x] Write caption
 
 ### Writing ###
 - [x] Overview
