@@ -25,7 +25,7 @@ Document Set-Up
 - [x] Fix Overview sections in toc
 - [x] Move nomenclature definitions from in-text to Glossary.tex file
 - [x] Make a stand alone Glossary (manual) file for use if I don't get the nomencl package to work
-- [ ] Why are web pages cited first and not in order of appearance?! Try to fix.
+- [x] Why are web pages cited first and not in order of appearance?! Fixed when removed footnotes.
 
 
 Chapter 1: Introduction
@@ -46,7 +46,7 @@ Finalizing:
 - [x] Clean chapter of notes and todo's and slasks
 - [x] Review and make sure labels and refs are correct after settling on a chapter structure
 - [ ] Review all todoNotes in the document!
-- [ ] Change web page references from footnotes to citations
+- [x] Change web page references from footnotes to citations
 
 Post-writing:
 - [ ] Send out for proof reading

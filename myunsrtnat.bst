@@ -70,6 +70,7 @@ ENTRY
     title
     type
     url
+    urldate
     volume
     year
   }
@@ -286,6 +287,17 @@ FUNCTION {format.url}
 { url empty$
     { "" }
     { new.block "Retrieved from URL \url{" url * "}" * }
+  if$
+}
+
+FUNCTION {format.urldate}
+{ urldate empty$
+    { "" }
+    { url empty$
+        { new.block "Retrieved on " urldate * }
+        { "on " urldate * }
+      if$
+    }
   if$
 }
 
@@ -924,6 +936,7 @@ FUNCTION {misc}
   howpublished output
   format.date output
   format.url output
+  format.urldate output
   new.block
   note output
   fin.entry
