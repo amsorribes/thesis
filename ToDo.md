@@ -59,9 +59,7 @@ Post-writing:
 	- [x] Photo of a DAMS monitor
 	- [x] Incubator and DAMS in place
 	- [x] Counts to bouts illustration
-		- [x] Write caption
 	- [x] Poisson, burstiness and memory, from Goh & Barabasi, 2008
-		- [x] Write caption
 
 ### Writing ###
 - [x] Overview
@@ -84,7 +82,7 @@ Post-writing:
 
 - [ ] Statistical Analysis
 
-- [ ] Summary
+- [x] Summary
 
 
 
