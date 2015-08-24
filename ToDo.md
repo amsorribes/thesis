@@ -25,6 +25,7 @@ Document Set-Up
 - [x] Fix Overview sections in toc
 - [x] Move nomenclature definitions from in-text to Glossary.tex file
 - [x] Make a stand alone Glossary (manual) file for use if I don't get the nomencl package to work
+- [ ] Why are web pages cited first and not in order of appearance?! Try to fix.
 
 
 Chapter 1: Introduction
@@ -53,11 +54,14 @@ Post-writing:
 
 ### Figures ###
 - [x] Decide which figures should be included
-- [ ] Find/Make/Include figures:
+- [ ] Find/Make/Include figures and write captions:
 	- [x] Illustration of female and male Drosophila flies
 	- [x] Photo of a DAMS monitor
 	- [x] Incubator and DAMS in place
 	- [ ] Counts to bouts illustration
+		- [ ] Write caption
+	- [ ] Poisson, burstiness and memory, from Goh & Barabasi, 2008
+		- [ ] Write caption
 
 ### Writing ###
 - [x] Overview
