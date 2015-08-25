@@ -26,6 +26,7 @@ Document Set-Up
 - [x] Move nomenclature definitions from in-text to Glossary.tex file
 - [x] Make a stand alone Glossary (manual) file for use if I don't get the nomencl package to work
 - [x] Why are web pages cited first and not in order of appearance?! Fixed when removed footnotes.
+- [x] Go through paper stack and divide into chapters/sections!
 
 
 Chapter 1: Introduction
@@ -80,7 +81,7 @@ Post-writing:
 		- [ ] Review
 	- [x] Finding simple functional forms
 		- [ ] Review
-		
+
 - [ ] Statistical Analysis
 
 - [x] Summary
