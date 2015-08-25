@@ -74,13 +74,13 @@ Post-writing:
 	- [x] Environmental Conditions
 	- [x] Drosophila Activity Monitor System
 	
-- [ ] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
+- [x] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
 	- [x] Randomness, Burstiness and Memory
-		- [ ] Review
+		- [x] Review
 	- [x] Finding simple functional forms
-		- [ ] Review
+		- [x] Review
 
 - [ ] Statistical Analysis
 
