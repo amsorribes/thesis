@@ -45,7 +45,7 @@ Pre-writing:
 Finalizing:
 - [x] Clean chapter of notes and todo's and slasks
 - [x] Review and make sure labels and refs are correct after settling on a chapter structure
-- [ ] Review all todoNotes in the document!
+- [x] Review all todoNotes in the document!
 - [x] Change web page references from footnotes to citations
 
 Post-writing:
@@ -77,9 +77,10 @@ Post-writing:
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
 	- [x] Randomness, Burstiness and Memory
-		- [ ] Review all todo-notes!!
+		- [ ] Review
 	- [x] Finding simple functional forms
-
+		- [ ] Review
+		
 - [ ] Statistical Analysis
 
 - [x] Summary
