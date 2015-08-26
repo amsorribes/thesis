@@ -78,9 +78,7 @@ Post-writing:
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
 	- [x] Randomness, Burstiness and Memory
-		- [x] Review
 	- [x] Finding simple functional forms
-		- [x] Review
 
 - [ ] Statistical Analysis
 
@@ -90,8 +88,8 @@ Post-writing:
 
 Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 --------------------------------------------------------------
-- [ ] Think of several chapter titles to choose between
-- [ ] Decide on chapter title
+- [x] Think of several chapter titles to choose between
+- [x] Decide on chapter title
 - [x] Make preliminary outline of sections
 - [x] Decide if multimodal before or after decision-making - before
 - [x] Sort comments into Notes file, most about ch 3
@@ -136,9 +134,9 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 
 Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 -------------------------------------------------------------
-- [ ] Think of several chapter titles to choose between
-- [ ] Decide on chapter title
-- [ ] Make preliminary outline of sections
+- [x] Think of several chapter titles to choose between
+- [x] Decide on chapter title
+- [x] Make preliminary outline of sections
 
 ### Chapter Parts ###
 - [ ] Overview
@@ -176,23 +174,23 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 
 
 
-Chapter 5: Ih
----------------------
-- [ ] Think of several chapter titles to choose between
-- [ ] Decide on chapter title
-- [ ] Make preliminary outline of sections
+Chapter 5: Sleep Dynamics and Neuronal Excitability of DmIh
+-----------------------------------------------------------
+- [x] Think of several chapter titles to choose between
+- [x] Decide on chapter title
+- [x] Make preliminary outline of sections
 
 ### Chapter Parts ###
 - [ ] Overview
 
-- [ ] Sleep Dynamics in Ih 
+- [ ] Sleep Dynamics in the DmIh Mutant 
 	- [ ] Introduction
 		- [ ] Sleep & Dopamine and Ih
 	- [ ] Material and Methods
 	- [ ] Results
 	- [ ] Discussion
 
-- [ ] Electrophysiological study of the Ih NMJ
+- [ ] Electrophysiological Study of the DmIh NMJ
 	- [ ] Introduction
 		- [ ] Decide how much of the other results to present
 	- [ ] Material and Methods
