@@ -157,7 +157,15 @@
 % Control Numbering of Levels in Text and TOC
   % Setting these to 2 means that \subsubsection can be used as unnumbered small bold headings
 \setcounter{secnumdepth}{2}   % levels are: 0 - chapter, 1 - section
-\setcounter{tocdepth}{2}      %             2 - subsection, 3 - subsubsection
+\setcounter{tocdepth}{3}      %             2 - subsection, 3 - subsubsection
+
+% Set indentations in the TOC
+\makeatletter
+  \renewcommand*\l@section{\@dottedtocline{1}{0em}{2em}}
+  \renewcommand*\l@subsection{\@dottedtocline{2}{2em}{2.8em}}
+  \renewcommand*\l@subsubsection{\@dottedtocline{3}{4.8em}{3.7em}}
+\makeatother
+
 
 % Add a Glossary and Include in TOC
 \usepackage[intoc]{nomencl}
