@@ -50,7 +50,7 @@ Finalizing:
 - [x] Change web page references from footnotes to citations
 
 Post-writing:
-- [ ] Send out for proof reading
+- [x] Send out for proof reading
 - [ ] Address comments from proof readings
 
 ### Figures ###
