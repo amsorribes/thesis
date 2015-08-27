@@ -100,11 +100,13 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 - [ ] Overview
 
 - [ ] Introduction
+  - [ ] Animal movement pattern, non-brownian
+  - [ ] Power laws, universality, levy-walks/flights, optimal search strategies
 
 - [ ] Dynamics of Spontaneous Walking Activity in \dro
   - [x] Think of section title
   - [ ] Introduction
-    - [ ] What's been done in Drosophila before
+    - [ ] What's been done in Drosophila (walking) before
     - [ ] Long time scales missing
     - [ ] What we did to fill this gap
   - [ ] Material and Methods
@@ -126,8 +128,9 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 - [ ] A Common Framework Across Behaviors
   - [x] Think of section title
   - [ ] Introduction
-    - [ ] Bursts, power laws, marine animals, predators
+    - [ ] What's been done in Drosophila flying before
     - [ ] Multimodal missing
+    - [ ] How does the dynamics of walking and flight relate? Do they?
     - [ ] What we did to fill this gap
   - [ ] Material and Methods
     - [x] write ref "exp_multimodal" in experimental section of Multimodal experiment
