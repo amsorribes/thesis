@@ -99,6 +99,8 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 ### Chapter Parts ###
 - [ ] Overview
 
+- [ ] Introduction
+
 - [ ] Dynamics of Spontaneous Walking Activity in \dro
   - [x] Think of section title
   - [ ] Introduction
@@ -197,6 +199,8 @@ Chapter 5: Sleep Dynamics and Neuronal Excitability of DmIh
 
 ### Chapter Parts ###
 - [ ] Overview
+
+- [ ] Introduction
 
 - [ ] Sleep Dynamics in the DmIh Mutant 
   - [ ] Introduction
