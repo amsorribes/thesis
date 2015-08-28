@@ -109,9 +109,11 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
     - [ ] What's been done in Drosophila (walking) before
     - [ ] Long time scales missing
     - [ ] What we did to fill this gap
-  - [ ] Material and Methods
-    - [ ] Flies
-    - [ ] Statistical Analysis
+  - [x] Material and Methods
+    - [x] Flies & Rearing
+    - [x] Locomotor Activity Assay
+    - [x] Data Analaysis
+    - [x] Statistical Analysis
   - [ ] Results
     - [ ] Burstiness in \dro is described by a Weibull distribution
       - [ ] Text
