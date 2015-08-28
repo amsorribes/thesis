@@ -99,7 +99,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 ### Chapter Parts ###
 - [ ] Overview
 
-- [ ] Introduction
+- [ ] Introduction & Background
   - [ ] Animal movement pattern, non-brownian
   - [ ] Power laws, universality, levy-walks/flights, optimal search strategies
 
@@ -163,7 +163,7 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 ### Chapter Parts ###
 - [ ] Overview
 
-- [ ] Introduction
+- [ ] Introduction & Background
   - [ ] Sleep, the big questions, the different hypotheses (Do I need this? Not really relevant to my studies - Maybe yes but short, 1 paragraph)
   - [ ] Sleep research in model organisms (generally, short, specifics in each sections introduction!)
   - [ ] Fine-scale dynamics of sleep in other organisms
@@ -205,7 +205,7 @@ Chapter 5: Sleep Dynamics and Neuronal Excitability of DmIh
 ### Chapter Parts ###
 - [ ] Overview
 
-- [ ] Introduction
+- [ ] Introduction & Background
 
 - [ ] Sleep Dynamics in the DmIh Mutant 
   - [ ] Introduction
