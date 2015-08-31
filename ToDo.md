@@ -1,6 +1,17 @@
 ToDo-List
 =========
 
+Paperwork
+---------
+- [ ] Read info on web page
+- [ ] Download documents
+- [ ] Make documentation ToDo-list
+- [ ] Print instructions
+- [ ] Make calendar for tasks
+- [ ] Write UAM with questions
+- [ ] Write J with questions
+
+
 Document Set-Up
 ---------------
 - [x] Create main file
