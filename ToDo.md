@@ -3,9 +3,9 @@ ToDo-List
 
 Paperwork
 ---------
-- [ ] Read info on web page
-- [ ] Download documents
-- [ ] Make documentation ToDo-list
+- [x] Read info on web page
+- [x] Download documents
+- [x] Make documentation ToDo-list
 - [ ] Print instructions
 - [ ] Make calendar for tasks
 - [ ] Write UAM with questions
