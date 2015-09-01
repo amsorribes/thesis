@@ -9,8 +9,8 @@ Paperwork
 - [ ] Print instructions
 - [ ] Make calendar for tasks
 - [ ] Write UAM with questions
-- [ ] Write J with questions
-
+- [x] Write J with questions
+- [ ] Write R with questions
 
 Document Set-Up
 ---------------
