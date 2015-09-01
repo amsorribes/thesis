@@ -11,7 +11,8 @@ Paperwork
 - [ ] Write UAM with questions
 - [x] Write J with questions
 - [x] Write R with questions
-- [ ] Write about paperwork
+- [x] Write G about paperwork
+
 
 Document Set-Up
 ---------------
