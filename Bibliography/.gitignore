@@ -1,5 +1,4 @@
 Chapters*
 *.bib
 *.bib.part
-Thesis Chapters-Chapter*
-!Thesis_Bibliography.bib
+Chapters-Chapter*
