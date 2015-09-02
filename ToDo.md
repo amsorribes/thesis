@@ -13,9 +13,9 @@ Paperwork
 
 Running Tasks
 -------------
-- [x] Write J with questions
-- [x] Write R with questions
-- [x] Write G about paperwork
+- [ ] Answer about review
+- [ ] Answer R
+- [ ] Send chapter 2 for proof-reading
 - [ ] Look for room
 
 
