@@ -1,0 +1,30 @@
+{
+// Add this file to Packages/User/ folder for effect
+
+"extensions": [ "tex" ],
+
+"color_scheme": "Packages/Custom-Themes/Light LaTeX Scheme.tmTheme",
+
+"tab_size": 2,
+"translate_tabs_to_spaces": true,
+"trim_trailing_white_space_on_save": false,
+"auto_match_enabled": true,
+
+// Layout
+"draw_centered": true,
+"word_wrap": true,
+"wrap_width": 86,
+"rulers": [],
+
+// Line
+"line_numbers": true,
+"highlight_line": false,
+"line_padding_top": 2, // space in pixels
+"line_padding_bottom": 2, // space in pixels
+
+// Caret
+"caret_style": "solid", // blink with "smooth"
+"caret_extra_width": 1, 
+"caret_extra_top": 2,
+"caret_extra_bottom": 1
+}

@@ -3,7 +3,7 @@ Using Sublime Text 3 for Thesis Writing
 
 The reason I want to use Sublime for writing my thesis is that most LaTeX editors are very cluttered, with source text, pdf preview, project files, logs and errors, etc etc, filling up the screen. I find this distracting when writing and found the Sublime Text "Distraction Free Full Screen Writing" *phenomenal*, especially set at 72 or 80 characters wide. 
 
-I was going to just write in Sublime Text and then compile in the shell, but a quick search showed there are two Sublime plugins for LaTeX writing with Sublime Text: LaTeXTools and LaTeXing. I will be trying out LaTeXTools, since the proyect is open source and seems to have many users, developers and seems stable.
+I was going to just write in Sublime Text and then compile in the shell, but a quick search showed there are two Sublime plugins for LaTeX writing with Sublime Text: LaTeXTools and LaTeXing. I will be trying out LaTeXTools, since the project is open source and seems to have many users, developers and seems stable.
 
 Getting it up and running
 -------------------------
@@ -35,5 +35,17 @@ On Windows, both MikTeX and TeXlive are supported.
 Multi-file documents are supported as follows. If the first line in the current file consists of the text %!TEX root = <master file name>, then tex & friends are invoked on the specified master file, instead of the current one. 
 
 ### Important ###
-For the ```\ref{ ``` and ```\cite``` commands to produce a pop-up with available labels and citations, *ALL* the documents included in the project must be saved with UTF-8 encoding! Otherwise doesn't work correctly!
+For the ```\ref{ ``` and ```\cite``` commands to produce a pop-up with available labels and citations, *ALL* the documents included in the project must be saved with UTF-8 encoding! Otherwise it doesn't work correctly!
 
+
+Displaying LaTeX nicely
+-----------------------
+Additionally, it is helpful to have a Color Scheme that displays LaTeX nicely. I have downloaded and tweaked one to my liking, by using the TmTheme-Editor at 
+http://tmtheme-editor.herokuapp.com or https://github.com/aziz/tmTheme-Editor. 
+
+The color scheme I've tweaked to my liking is the ```Light LaTeX Scheme.tmTheme```, which should be found in this same directory folder. Create a new directory named ```Custom-Themes``` in the ```Package``` directory (found under Preferences -> Browse Packages...). Move this tmTheme-file to the Custom-Themes folder.
+
+Next, move the file ```LaTeX.sublime-settings``` to the ```Package/User``` directory. This settings file will specify to use the "Light LaTeX Scheme" as the default color scheme for LaTeX. Additionally it will center the text (without needing to use distraction-free mode!) and set the word wrap at 86 columns, and add some space between lines to improve readability.
+
+
+_Happy LaTeXing!_
