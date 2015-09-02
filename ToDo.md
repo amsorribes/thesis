@@ -9,6 +9,10 @@ Paperwork
 - [ ] Print instructions
 - [ ] Make calendar for tasks
 - [ ] Write UAM with questions
+
+
+Running Tasks
+-------------
 - [x] Write J with questions
 - [x] Write R with questions
 - [x] Write G about paperwork
@@ -110,7 +114,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 - [x] Sort comments into Notes file, most about ch 3
 - [ ] Go over, organize? notes file, use some in ch 3
 
-### Chapter Parts ###
+### Chapter 3: Parts ###
 - [ ] Overview
 
 - [ ] Introduction & Background
@@ -123,6 +127,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 	- [ ] Other approach: Behavioral neuroscience, examples
 	- [ ] Movement ecology framework
 	- [ ] How our work fits into all of this.
+
 
 - [ ] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Think of section title
