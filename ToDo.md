@@ -12,6 +12,7 @@ Paperwork
 - [x] Write J with questions
 - [x] Write R with questions
 - [x] Write G about paperwork
+- [ ] Look for room
 
 
 Document Set-Up
@@ -113,8 +114,15 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 - [ ] Overview
 
 - [ ] Introduction & Background
-	- [ ] Animal movement pattern, non-brownian
-	- [ ] Power laws, universality, levy-walks/flights, optimal search strategies
+	- [x] Read, research
+	- [x] Sketch outline for section
+	- [ ] Bursts ubiquitous, empirical evidence
+	- [ ] Modeling efforts, framework of random walks
+	- [ ] Interpretation: levy walks, which later shown to be optimal search strategy
+	- [ ] Power law fits contended, levy walks contended
+	- [ ] Other approach: Behavioral neuroscience, examples
+	- [ ] Movement ecology framework
+	- [ ] How our work fits into all of this.
 
 - [ ] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Think of section title
@@ -125,7 +133,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 	- [x] Material and Methods
 		- [x] Flies & Rearing
 		- [x] Locomotor Activity Assay
-		- [x] Data Analaysis
+		- [x] Data Analysis
 		- [x] Statistical Analysis
 	- [ ] Results
 		- [ ] Burstiness in \dro is described by a Weibull distribution
