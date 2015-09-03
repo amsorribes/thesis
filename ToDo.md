@@ -13,14 +13,14 @@ Paperwork
 
 Running Tasks
 -------------
-- [x] Answer about review
-- [x] Answer R
+- [x] Specify first list of possible committee members
 - [ ] Send chapter 2 for proof-reading
 - [ ] Look for room
 	- [x] SpotAHome
 	- [x] Idealista (no point though now)
 	- [x] Preguntar a R agencia
-	- [ ] Ask about answer
+	- [x] Ask about answer
+	- [ ] Ask about second answer
 	- [ ] Possibly book San B.
 
 
