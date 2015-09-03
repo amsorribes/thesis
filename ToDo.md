@@ -14,7 +14,7 @@ Paperwork
 Running Tasks
 -------------
 - [ ] Answer about review
-- [ ] Answer R
+- [x] Answer R
 - [ ] Send chapter 2 for proof-reading
 - [ ] Look for room
 	- [x] SpotAHome
