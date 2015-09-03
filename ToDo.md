@@ -13,7 +13,7 @@ Paperwork
 
 Running Tasks
 -------------
-- [ ] Answer about review
+- [x] Answer about review
 - [x] Answer R
 - [ ] Send chapter 2 for proof-reading
 - [ ] Look for room
