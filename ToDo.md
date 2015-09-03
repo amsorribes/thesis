@@ -17,6 +17,11 @@ Running Tasks
 - [ ] Answer R
 - [ ] Send chapter 2 for proof-reading
 - [ ] Look for room
+	- [x] SpotAHome
+	- [x] Idealista (no point though now)
+	- [x] Preguntar a R agencia
+	- [ ] Ask about answer
+	- [ ] Possibly book San B.
 
 
 Document Set-Up
