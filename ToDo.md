@@ -14,7 +14,7 @@ Paperwork
 Running Tasks
 -------------
 - [x] Specify first list of possible committee members
-- [ ] Send chapter 2 for proof-reading
+- [x] Send chapter 2 for proof-reading
 - [ ] Look for room
 	- [x] SpotAHome
 	- [x] Idealista (no point though now)
