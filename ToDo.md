@@ -20,7 +20,8 @@ Running Tasks
 	- [x] Idealista (no point though now)
 	- [x] Preguntar a R agencia
 	- [x] Ask about answer
-	- [ ] Ask about second answer
+	- [x] Ask about second answer
+	- [x] Write to several rooms from idealista
 	- [ ] Possibly book San B.
 
 
