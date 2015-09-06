@@ -125,14 +125,16 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 
 - [ ] Introduction & Background
 	- [x] Read, research
-	- [x] Sketch outline for section	
-	- [x] Uncorrelated and correlated random walk models
-	- [ ] Levy walk proposed
-	- [ ] Empirical evidence
-	- [ ] optimal search strategy
-	- [ ] Power law fits contended, levy walks contended
-	- [ ] Other approach: Behavioral neuroscience, examples
-	- [ ] Movement ecology framework
+	- [x] Sketch outline for section
+	- [ ] Modeling Animal Movement Trajectories
+		- [x] Uncorrelated and correlated random walk models
+		- [ ] Levy walk proposed
+		- [ ] Empirical evidence
+		- [ ] optimal search strategy
+		- [ ] Power law fits contended, levy walks contended
+	- [ ] Other approaches and broader view 
+		- [ ] Behavioral neuroscience, examples
+		- [ ] Movement ecology framework
 	- [ ] How our work fits into all of this.
 
 
