@@ -129,8 +129,8 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 	- [ ] Modeling Animal Movement Trajectories
 		- [x] Uncorrelated and correlated random walk models
 		- [x] Levy flight and walks explained
-		- [ ] Levy walk proposed, levy flight foraging hypothesis and other empirical evidence for that
-		- [ ] Power law fits contended, levy walks contended
+		- [x] Levy walk proposed, levy flight foraging hypothesis and other empirical evidence for that
+		- [ ] Power law fits contended, levy walks contended, other models
 	- [ ] Other approaches and broader view 
 		- [ ] Behavioral neuroscience, examples
 		- [ ] Movement ecology framework
