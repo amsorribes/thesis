@@ -70,6 +70,7 @@ ENTRY
     title
     type
     url
+    urldate
     volume
     year
   }
@@ -215,21 +216,40 @@ INTEGERS { nameptr namesleft numnames }
 
 FUNCTION {format.names}
 { 's :=
+  "" 't :=
   #1 'nameptr :=
   s num.names$ 'numnames :=
   numnames 'namesleft :=
     { namesleft #0 > }
-    { s nameptr "{ff~}{vv~}{ll}{, jj}" format.name$ 't :=
+    { s nameptr
+      "{vv~}{ll}{, jj}{, f{.}.}"
+      format.name$
+      't :=
       nameptr #1 >
-        { namesleft #1 >
+        {
+          nameptr #3
+          #1 + =
+          numnames #10
+          > and
+            { "others" 't :=
+              #1 'namesleft := }
+            'skip$
+          if$
+          namesleft #1 >
             { ", " * t * }
-            { numnames #2 >
-                { "," * }
-                'skip$
+            {
+              s nameptr "{ll}" format.name$ duplicate$ "others" =
+                { 't := }
+                { pop$ }
               if$
               t "others" =
-                { " et~al." * }
-                { " and " * t * }
+                {
+                  " et~al" *
+                }
+                {
+                  " and "
+                  * t *
+                }
               if$
             }
           if$
@@ -271,28 +291,39 @@ FUNCTION {format.editors}
 FUNCTION {format.isbn}
 { isbn empty$
     { "" }
-    { "" }
+    { new.block "ISBN " isbn * }
   if$
 }
 
 FUNCTION {format.issn}
 { issn empty$
     { "" }
-    { "" }
+    { new.block "ISSN " issn * }
   if$
 }
 
 FUNCTION {format.url}
 { url empty$
     { "" }
+    { new.block "Retrieved from URL \url{" url * "}" * }
+  if$
+}
+
+FUNCTION {format.urldate}
+{ urldate empty$
     { "" }
+    { url empty$
+        { new.block "Retrieved on " urldate * }
+        { "on " urldate * }
+      if$
+    }
   if$
 }
 
 FUNCTION {format.doi}
 { doi empty$
     { "" }
-    { "" }
+    { new.block "\doi{" doi * "}" * }
   if$
 }
 
@@ -718,9 +749,7 @@ FUNCTION {article}
       if$
     }
   if$
-  format.issn output
   format.doi output
-  format.url output
   new.block
   note output
   fin.entry
@@ -757,7 +786,6 @@ FUNCTION {book}
   format.date "year" output.check
   format.isbn output
   format.doi output
-  format.url output
   new.block
   note output
   fin.entry
@@ -775,7 +803,6 @@ FUNCTION {booklet}
   format.date output
   format.isbn output
   format.doi output
-  format.url output
   new.block
   note output
   fin.entry
@@ -812,9 +839,8 @@ FUNCTION {inbook}
   if$
   format.edition output
   format.date "year" output.check
-  format.isbn output
+  format.isbn output  
   format.doi output
-  format.url output
   new.block
   note output
   fin.entry
@@ -844,7 +870,6 @@ FUNCTION {incollection}
   if$
   format.isbn output
   format.doi output
-  format.url output
   new.block
   note output
   fin.entry
@@ -880,9 +905,7 @@ FUNCTION {inproceedings}
       format.pages output
     }
   if$
-  format.isbn output
   format.doi output
-  format.url output
   new.block
   note output
   fin.entry
@@ -901,7 +924,6 @@ FUNCTION {manual}
   address output
   format.edition output
   format.date output
-  format.url output
   new.block
   note output
   fin.entry
@@ -918,7 +940,6 @@ FUNCTION {mastersthesis}
   school "school" output.check
   address output
   format.date "year" output.check
-  format.url output
   new.block
   note output
   fin.entry
@@ -933,8 +954,8 @@ FUNCTION {misc}
   howpublished new.block.checka
   howpublished output
   format.date output
-  format.issn output
   format.url output
+  format.urldate output
   new.block
   note output
   fin.entry
@@ -952,7 +973,6 @@ FUNCTION {phdthesis}
   school "school" output.check
   address output
   format.date "year" output.check
-  format.url output
   new.block
   note output
   fin.entry
@@ -971,9 +991,7 @@ FUNCTION {proceedings}
   new.sentence
   organization output
   publisher output
-  format.isbn output
   format.doi output
-  format.url output
   new.block
   note output
   fin.entry
@@ -990,7 +1008,6 @@ FUNCTION {techreport}
   institution "institution" output.check
   address output
   format.date "year" output.check
-  format.url output
   new.block
   note output
   fin.entry
