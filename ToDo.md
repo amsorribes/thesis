@@ -55,7 +55,7 @@ Document Set-Up
 - [x] Change back to Author-Year style (seeing the **year** adds value to introduction and backgrounds)
 - [x] Truncate author lists with more than 10 authors to et al. in reference list
 - [x] Adapt figures etc in Chapter 2 for new formatting
-- [ ] Adapt reference style in Chapter 3 Introduction and Background to Author-Year style
+- [x] Adapt reference style in Chapter 3 Introduction and Background to Author-Year style
 
 
 Chapter 1: Introduction
