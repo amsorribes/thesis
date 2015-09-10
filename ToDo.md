@@ -137,9 +137,12 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] Power law fits contended, levy walks contended, other models
 		- [x] Evidence strikes back. But contended.
 		- [x] Still very active field, no consensus on the Levy flight foraging hypothesis
-	- [ ] Animal Movement from a Broader Perspective
-		- [ ] Movement ecology framework
-		- [ ] How our approach of behavioral neuroscience fits into this framework (different questions than Levy studies)
+	- [ ] Movement Patterns and Spontaneous Behavior
+		- [x] Neuroscience approach
+		- [ ] Advances in the understanding of the visual system
+		- [ ] Input-Output machines
+		- [ ] Spontaneous behavior in the open-loop
+		- [ ] Spontaneous behavior as trying things out, operant behavior
 	- [ ] How our work fits into all of this.
 
 
