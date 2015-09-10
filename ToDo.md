@@ -139,7 +139,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] Still very active field, no consensus on the Levy flight foraging hypothesis
 	- [ ] Movement Patterns and Spontaneous Behavior
 		- [x] Neuroscience approach
-		- [ ] Advances in the understanding of the visual system
+		- [x] Advances in the understanding of the visual system
 		- [ ] Input-Output machines
 		- [ ] Spontaneous behavior in the open-loop
 		- [ ] Spontaneous behavior as trying things out, operant behavior
