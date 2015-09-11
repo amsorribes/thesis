@@ -143,7 +143,8 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] Input-Output machines
 		- [x] Added references to preceding parts
 		- [x] Spontaneous behavior in the open-loop, and operant behavior
-	- [ ] How our work fits into all of this.
+	- [ ] In This Chapter
+		- [ ] How our work fits into all of this.
 
 
 - [ ] Dynamics of Spontaneous Walking Activity in \dro
