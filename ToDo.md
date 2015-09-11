@@ -141,6 +141,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] Neuroscience approach
 		- [x] Advances in the understanding of the visual system
 		- [x] Input-Output machines
+		- [x] Added references to preceding parts
 		- [ ] Spontaneous behavior in the open-loop
 		- [ ] Spontaneous behavior as trying things out, operant behavior
 	- [ ] How our work fits into all of this.
