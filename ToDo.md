@@ -127,7 +127,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 ### Chapter 3: Parts ###
 - [ ] Overview
 
-- [ ] Introduction & Background
+- [x] Introduction & Background
 	- [x] Read, research
 	- [x] Sketch outline for section
 	- [x] Modeling Animal Movement Trajectories
