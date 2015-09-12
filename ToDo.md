@@ -128,23 +128,9 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 - [ ] Overview
 
 - [x] Introduction & Background
-	- [x] Read, research
-	- [x] Sketch outline for section
 	- [x] Modeling Animal Movement Trajectories
-		- [x] Uncorrelated and correlated random walk models
-		- [x] Levy flight and walks explained
-		- [x] Levy walk proposed, levy flight foraging hypothesis and other empirical evidence for that
-		- [x] Power law fits contended, levy walks contended, other models
-		- [x] Evidence strikes back. But contended.
-		- [x] Still very active field, no consensus on the Levy flight foraging hypothesis
 	- [x] Movement Patterns and Spontaneous Behavior
-		- [x] Neuroscience approach
-		- [x] Advances in the understanding of the visual system
-		- [x] Input-Output machines
-		- [x] Added references to preceding parts
-		- [x] Spontaneous behavior in the open-loop, and operant behavior
 	- [x] Chapter Outline
-		- [x] How our work fits into all of this.
 
 
 - [ ] Dynamics of Spontaneous Walking Activity in \dro
