@@ -12,8 +12,9 @@
 \usepackage[pdftex,svgnames,x11names]{xcolor}
 \usepackage[margin=0.75cm,font=small,labelfont=bf]{caption}
 
-%\usepackage[bottom]{footmisc} % Force footnotes below figures
-\raggedbottom  % Un-force paragraphs to the bottom, removing stretched whitespace between them
+ % Un-enforce paragraphs to the bottom, removing stretched whitespace between them
+\raggedbottom 
+
 
 % --- Paper Size and Text Formatting --- %
 
@@ -126,9 +127,7 @@
 
 % Plain Page Style (Used in First Page of Chapters)
 \fancypagestyle{plain}{\fancyhead{}\renewcommand{\headrulewidth}{0pt}}
- % \fancypagestyle{plain}{
- %   \fancyhead[RO]{\fancytab{}{\thechapter}}
- %   \renewcommand{\headrulewidth}{0pt}}
+
 
 % Empty Fill Page if Prev. Chapter does not Reach Odd Page Before New Chapter
 % Redefine \cleardouble page, to remove header and footer (i.e. blank page).
