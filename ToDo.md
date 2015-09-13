@@ -57,6 +57,7 @@ Document Set-Up
 - [x] Adapt figures etc in Chapter 2 for new formatting
 - [x] Adapt reference style in Chapter 3 Introduction and Background to Author-Year style
 - [x] Set all Overview sections so they end 1 cm from the bottom
+- [x] Change font size of sections, subsections and subsubsections. They were too small 
 
 
 Chapter 1: Introduction

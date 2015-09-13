@@ -59,11 +59,40 @@
 % Define Chapter and Section Formats
 \usepackage{titlesec}
 \usepackage{tikz}
-%\usepackage{fix-cm}
 
-% Change Font on Chapter and Section
-\usepackage{gentium}
+
+% - FONTS -
+% Change Font on Chapter and Sections
+%\usepackage{gentium}
 \renewcommand{\sfdefault}{gentium}
+
+% Change fonts for roman text style
+\renewcommand{\rmdefault}{bch}
+
+
+% - HEADERS STYLE (weight, style, etc) -
+\titleformat{\section}%[block]
+  {\fontsize{16}{18}\selectfont\sffamily\bfseries} %\scshape 
+  {\thesection}
+  {.75em}
+  {\hspace{-0.3em}}
+  {\vspace{6pt}}
+  %[\titlerule\vspace{1ex}\filright]
+  
+\titleformat{\subsection}%[hang]
+  {\fontsize{14}{16}\selectfont\sffamily\bfseries}
+  {\thesubsection}
+  {0.5em}
+  {}
+  {\vspace{4pt}}
+
+\titleformat{\subsubsection}%[hang]
+  {\fontsize{12}{14}\selectfont\sffamily\bfseries}
+  {\thesubsubsection}
+  {0.5em}
+  {}
+  {\vspace{2pt}}
+
 
 % Chapter
 \definecolor{boxcolor}{rgb}{0.825,0.825,0.825}
@@ -79,42 +108,11 @@
 {25pt}%{space between chapter number and title text}
 {\filleft\fontsize{29}{28}\bfseries\selectfont\sffamily}
 []
-\titlespacing*{\chapter}{0pt}{35pt}{40pt}%{left}{space before title}{space after title}
-
-% Sections
-\titleformat{\section}%[block]
-  {\Large\sffamily\bfseries}
-  {\thesection}
-  {.75em}%{.75em}
-  {\hspace{-0.25em}}%{}
-  []%[\titlerule\vspace{1ex}\filright]
-  
-\titleformat{\subsection}[hang]
-   {\large\sffamily\bfseries}
-   {\thesubsection}
-   {0.5em}
-   {}
-   {}
-%\titleformat{\subsubsection}[hang]{\small\sffamily\bfseries}{\thesubsubsection}{.5em}{\hspace{0.2in}}{}
+\titlespacing*{\chapter}{0pt}{35pt}{40pt}  % {left}{space before title}{space after title}
 
 
-% Change Fonts
-\renewcommand{\rmdefault}{bch}
-
-% Add Thumb Index
- %\usepackage{fancytabs}
- %\fancytabsLeftColor{Black}
- %\fancytabsRightColor{Black}
- %\fancytabsFloor{\arabic{chapter}}
- % or
- %\usepackage{thumb}
- %\setlength{\thumbheight}{5cm}
- %\setlength{\thumbwidth}{5cm}
-
-% Use Fancy Header Package and Define Page Style Layout
+% Use Fancy Header Package and Define Page Style Layout (Text above line at the top of the pages)
 \usepackage{fancyhdr}
-
-% Fancy Page Style
 \pagestyle{fancy}
 \renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\thechapter. #1}}{}}
 \renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
