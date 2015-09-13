@@ -934,15 +934,28 @@ FUNCTION {misc}
 { output.bibitem
   format.authors output
   author format.key output
-  title howpublished new.block.checkb
+  format.date "year" output.check
   format.title output
-  howpublished new.block.checka
-  howpublished output
-  format.date output
+  new.block
+  crossref missing$
+    { booktitle "booktitle" output.check
+      eid empty$
+        { format.vol.num.pages output }
+        { format.vol.num.eid output }
+      if$
+    }
+    { format.article.crossref output.nonnull
+      eid empty$
+        { format.pages output }
+        { format.eid output }
+      if$
+    }
+  if$
+  format.doi output
+  new.block
   format.url output
   format.urldate output
   new.block
-  note output
   fin.entry
   empty.misc.check
 }
