@@ -56,6 +56,7 @@ Document Set-Up
 - [x] Truncate author lists with more than 10 authors to et al. in reference list
 - [x] Adapt figures etc in Chapter 2 for new formatting
 - [x] Adapt reference style in Chapter 3 Introduction and Background to Author-Year style
+- [x] Set all Overview sections so they end 1 cm from the bottom
 
 
 Chapter 1: Introduction
