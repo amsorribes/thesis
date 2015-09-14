@@ -8,7 +8,7 @@ Paperwork
 - [x] Make documentation ToDo-list
 - [ ] Print instructions
 - [ ] Make calendar for tasks
-- [ ] Write UAM with questions
+- [x] Write UAM, secretaria de ciencias with questions
 - [x] Write UAM about financial aid, international committee members
 
 
