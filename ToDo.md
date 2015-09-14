@@ -9,6 +9,7 @@ Paperwork
 - [ ] Print instructions
 - [ ] Make calendar for tasks
 - [ ] Write UAM with questions
+- [x] Write UAM about financial aid, international committee members
 
 
 Running Tasks
