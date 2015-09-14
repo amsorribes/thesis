@@ -23,7 +23,7 @@ Running Tasks
 	- [x] Ask about answer
 	- [x] Ask about second answer
 	- [x] Write to several rooms from idealista
-	- [ ] Possibly book San B.
+	- [x] Answer SpotAHome
 
 
 Document Set-Up
