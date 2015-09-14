@@ -173,9 +173,12 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 
 
 - [ ]  Behavioral Bursts and Decision-Making Circuits
-	- [x] Think of section title
 	- [ ] Introduction
-	- [ ] Material and Methods
+	- [x] Material and Methods
+		- [x] Flies & Rearing
+		- [x] Locomotor Activity Assay
+		- [x] Data Analysis
+		- [x] Statistical Analysis
 	- [ ] Results
 	- [ ] Discussion
 
