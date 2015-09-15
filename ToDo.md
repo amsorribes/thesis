@@ -136,8 +136,8 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 - [ ] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Think of section title
 	- [ ] Introduction
-		- [ ] What's been done in Drosophila (walking) before
-		- [ ] Long time scales missing
+		- [x] What's been done in Drosophila (walking) before
+		- [ ] Why "do it again"
 		- [ ] What we did to fill this gap
 	- [x] Material and Methods
 		- [x] Flies & Rearing
