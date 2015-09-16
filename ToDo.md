@@ -144,7 +144,8 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] Locomotor Activity Assay
 		- [x] Data Analysis
 		- [x] Statistical Analysis
-	- [ ] Results
+	- [ ] Results & Discussion
+		- [ ] Technical considerations when analyzing activity data
 		- [ ] Burstiness in \dro is described by a Weibull distribution
 			- [ ] Text
 			- [ ] Figures
@@ -154,7 +155,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [ ] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
 			- [ ] Text
 			- [ ] Figures
-	- [ ] Discussion
+	- [ ] Conclusions
 
 
 - [ ] A Common Framework Across Behaviors
@@ -168,8 +169,8 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] write ref "exp_multimodal" in experimental section of Multimodal experiment
 		- [ ] my WTB DAMS
 		- [ ] Describe flight simulator briefly
-	- [ ] Results
-	- [ ] Discussion
+	- [ ] Results & Discussion
+	- [ ] Conclusions
 
 
 - [ ]  Behavioral Bursts and Decision-Making Circuits
@@ -179,8 +180,11 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] Locomotor Activity Assay
 		- [x] Data Analysis
 		- [x] Statistical Analysis
-	- [ ] Results
-	- [ ] Discussion
+	- [ ] Results & Discussion
+		- [ ] Dopamine Signaling
+		- [ ] Mushroom Bodies and Central Complex
+		- [ ] Relating neuroanatomy to the bursty decision-making model 
+	- [ ] Conclusions
 
 
 - [ ] Summary
