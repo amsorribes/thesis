@@ -181,8 +181,10 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] Data Analysis
 		- [x] Statistical Analysis
 	- [ ] Results & Discussion
-		- [ ] Dopamine Signaling
+		- [x] Dopamine Signaling
 			- [x] Write text
+			- [x] Add figures
+			- [x] Write figure captions
 		- [ ] Mushroom Bodies and Central Complex
 			- [x] Write text
 		- [ ] Relating neuroanatomy to the bursty decision-making model
