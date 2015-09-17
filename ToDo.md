@@ -186,6 +186,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [ ] Mushroom Bodies and Central Complex
 			- [x] Write text
 		- [ ] Relating neuroanatomy to the bursty decision-making model
+			- [x] Write text
 	- [ ] Conclusions
 
 
