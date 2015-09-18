@@ -180,22 +180,20 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x] Locomotor Activity Assay
 		- [x] Data Analysis
 		- [x] Statistical Analysis
-	- [ ] Results & Discussion
+	- [x] Results & Discussion
 		- [x] Dopamine Signaling
-			- [x] Write text
-			- [x] Add figures
-			- [x] Write figure captions
-		- [ ] Mushroom Bodies and Central Complex
-			- [x] Write text
-			- [x] Add figures
-			- [x] Write figure captions
-		- [ ] Relating neuroanatomy to the bursty decision-making model
-			- [x] Write text
+		- [x] Mushroom Bodies and Central Complex
+		- [x] Relating neuroanatomy to the bursty decision-making model
 	- [ ] Conclusions
 		- [ ] Write text
 		- [ ] Fix formatting
 		- [ ]  (Add citations)
-
+	- [x]  Figures
+		- [x]  Dopamine: Burstiness & Memory
+		- [x]  Dopamine: Activity & Burstiness
+		- [x]  MBs: Burstiness & Memory
+		- [x]  MBs: Activity & Burstiness
+		- [x]  CCX: Burstiness & Memory
 
 - [ ] Summary
 
