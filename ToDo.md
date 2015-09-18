@@ -136,7 +136,7 @@ Post-writing:
 - [ ] Summary
 	- [ ] Dynamics of Spontaneous Walking Activity in \dro
 	- [ ] A Common Framework Across Behaviors
-	- [ ] Behavioral Bursts and Decision-Making Circuits
+	- [x] Behavioral Bursts and Decision-Making Circuits
 
 
 
