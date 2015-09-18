@@ -14,9 +14,6 @@
 \usepackage{afterpage}
 \usepackage{rotating}
 
- % Un-enforce paragraphs to the bottom, removing stretched whitespace between them
-\raggedbottom 
-
 
 % --- Paper Size and Text Formatting --- %
 
@@ -32,6 +29,10 @@
 %\crop[cross] %or use ``cam''
 
 
+%- Control White Space -%
+ % Un-enforce paragraphs to the bottom, removing stretched whitespace between them
+\raggedbottom 
+
 % Handle overfull and underfull hboxes
   % badness measures the fit of the text on a line, with value between 0 (perfect) and 10000 (horrible).
   % if badness > \hbadness or \vbadness, TeX reports the error as overfull or underfull box. 
@@ -40,10 +41,13 @@
 
 \hbadness=5000   % default 1000. If set to 10000 TeX does not report underfull lines.
 \hfuzz=1pt   % default 0.1pt
-%\tolerance=500   % default 200
-%\emergencystretch=10pt
-\vbadness=5000
+%\tolerance=100   % default 200
+\emergencystretch=5pt
+\vbadness=500 %5000
 \vfuzz=1pt
+% Control Orphan and Widow lines (one line alone at the beginning or end)
+\clubpenalty=150
+\widowpenalty=150
 
 % Use Improved Text Processing (nicer look of text)
 \usepackage{microtype}
