@@ -3,100 +3,28 @@ ToDo-List
 
 Paperwork
 ---------
-- [x] Read info on web page
-- [x] Download documents
-- [x] Make documentation ToDo-list
-- [ ] Print instructions
-- [ ] Make calendar for tasks
-- [x] Write UAM, secretaria de ciencias with questions
-- [x] Write UAM about financial aid, international committee members
-
-
-Running Tasks
--------------
-- [x] Specify first list of possible committee members
-- [x] Send chapter 2 for proof-reading
-- [ ] Look for room
-	- [x] SpotAHome
-	- [x] Idealista (no point though now)
-	- [x] Preguntar a R agencia
-	- [x] Ask about answer
-	- [x] Ask about second answer
-	- [x] Write to several rooms from idealista
-	- [x] Answer SpotAHome
+- [ ] Ask international reviewers
+- [ ] Ask about 5 or 7 committee
 
 
 Document Set-Up
 ---------------
-- [x] Create main file
-- [x] Create style and macro files
-- [x] Create Chapters
-- [x] Create Frontmatter
-- [x] Create Backmatter
-- [x] Create Bibliography file
-- [x] Create and Style Title Page
-- [x] Style whole document
-- [x] Reorganize Chapters:
-	- [x] Only one method chapter
-	- [x] First result chapter: join initial busts with multimodal
-	- [x] Put FlySiesta as a section in Sleep
-- [x] Download and include natbib, change cites to name and year
-- [x] Fix Title page UTF-8 problem, so the \cite{} pop-up in LaTeXTools works
 - [ ] Make nomencl package work? It used to, not anymore. Looked for solution, didn't find one. Possibly later, if time.
-- [x] Style bibliography
-- [x] Join chapters into larger, themed chapters
-	- [x] Implement in chapters
-- [x] Find a narrower fond for section titles, many long
-- [x] Fix Overview sections in toc
-- [x] Move nomenclature definitions from in-text to Glossary.tex file
-- [x] Make a stand alone Glossary (manual) file for use if I don't get the nomencl package to work
-- [x] Why are web pages cited first and not in order of appearance?! Fixed when removed footnotes.
-- [x] Go through paper stack and divide into chapters/sections!
-- [x] Standardize label names (impossible to remember what's what otherwise!)
-- [x] Change back to Author-Year style (seeing the **year** adds value to introduction and backgrounds)
-- [x] Truncate author lists with more than 10 authors to et al. in reference list
-- [x] Adapt figures etc in Chapter 2 for new formatting
-- [x] Adapt reference style in Chapter 3 Introduction and Background to Author-Year style
-- [x] Set all Overview sections so they end 1 cm from the bottom
-- [x] Change references in Bibliography section so they are in Authors (Year) Title style
-- [x] Change font size of sections, subsections and subsubsections. They were too small 
-- [x] Start each new section on a new page, except for chapter 2 (not sure if to introduce this later or not)
 
 
 Chapter 1: Introduction
 -----------------------
-- [x] Decide on title
-- [ ] Find quote to possibly start with (yes, very cheesy)
+- [ ] Structure content and paragraphs
 
 
 
 Chapter 2: Drosophila as a Model Organism for Studying Bursts
 -------------------------------------------------------------
-Pre-writing:
-- [x] Think of several chapter titles to choose between
-- [x] Decide on chapter title
-- [x] Make preliminary outline of sections
-
-Finalizing:
-- [x] Clean chapter of notes and todo's and slasks
-- [x] Review and make sure labels and refs are correct after settling on a chapter structure
-- [x] Review all todoNotes in the document!
-- [x] Change web page references from footnotes to citations
-
 Post-writing:
 - [x] Send out for proof reading
 - [ ] Address comments from proof readings
 
-### Figures ###
-- [x] Decide which figures should be included
-- [x] Find/Make/Include figures and write captions:
-	- [x] Illustration of female and male Drosophila flies
-	- [x] Photo of a DAMS monitor
-	- [x] Incubator and DAMS in place
-	- [x] Counts to bouts illustration
-	- [x] Poisson, burstiness and memory, from Goh & Barabasi, 2008
-
-### Writing ###
+### Chapter 2: Parts ###
 - [x] Overview
 
 - [x] Drosophila melanogaster as a Model Organism
@@ -118,11 +46,27 @@ Post-writing:
 
 - [x] Summary
 
+- [x] Figures
+	- [x] Illustration of female and male Drosophila flies
+	- [x] Photo of a DAMS monitor
+	- [x] Incubator and DAMS in place
+	- [x] Counts to bouts illustration
+	- [x] Poisson, burstiness and memory
+
 
 
 Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 --------------------------------------------------------------
 - [ ] Go over, organize? notes file, use some in ch 3
+
+Finalizing:
+- [ ] Clean chapter of notes and todo's and slasks
+- [ ] Review all todoNotes in the document!
+
+Post-writing:
+- [ ] Send out for proof reading
+- [ ] Address comments from proof readings
+
 
 ### Chapter 3: Parts ###
 - [x] Overview
@@ -147,15 +91,10 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 	- [ ] Results & Discussion
 		- [ ] Technical considerations when analyzing activity data
 		- [ ] Burstiness in \dro is described by a Weibull distribution
-			- [ ] Text
-			- [ ] Figures
 		- [ ] The fitting technique correctly estimates the parameters
-			- [ ] Text
-			- [ ] Figures
 		- [ ] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
-			- [ ] Text
-			- [ ] Figures
 	- [ ] Conclusions
+	- [ ] Figures
 
 
 - [ ] A Common Framework Across Behaviors
@@ -171,6 +110,7 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [ ] Describe flight simulator briefly
 	- [ ] Results & Discussion
 	- [ ] Conclusions
+	- [ ] Figures
 
 
 - [ ]  Behavioral Bursts and Decision-Making Circuits
@@ -195,17 +135,22 @@ Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 		- [x]  MBs: Activity & Burstiness
 		- [x]  CCX: Burstiness & Memory
 
+
 - [ ] Summary
 
 
 
 Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 -------------------------------------------------------------
-- [x] Think of several chapter titles to choose between
-- [x] Decide on chapter title
-- [x] Make preliminary outline of sections
+Finalizing:
+- [ ] Clean chapter of notes and todo's and slasks
+- [ ] Review all todoNotes in the document!
 
-### Chapter Parts ###
+Post-writing:
+- [ ] Send out for proof reading
+- [ ] Address comments from proof readings
+
+### Chapter 4: Parts ###
 - [ ] Overview
 
 - [ ] Introduction & Background
@@ -219,13 +164,15 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 		- [ ] The fine-scale dynamics of sleep in Drosophila has never been studied before
 		- [ ] What we did to fill this gap
 	- [ ] Material and Methods
-	- [ ] Results
-	- [ ] Discussion
+	- [ ] Results & Discussion
+	- [ ] Conclusions
+	- [ ] Figures
 
 - [ ] FlySiesta Analysis Suite & Bursts Toolbox
 	- [ ] Introduction
 	- [ ] Find old manuscript draft
 	- [ ] Follow disposition of manuscript draft?
+	- [ ] Figures
 
 - [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
 	- [ ] Follow the article? Or:
@@ -234,8 +181,9 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 		- [ ] The fine-scale dynamics of sleep in zebrafish has never been studied before
 		- [ ] What we did to fill this gap
 	- [ ] Material and Methods
-	- [ ] Results
-	- [ ] Discussion
+	- [ ] Results & Discussion
+	- [ ] Conclusions
+	- [ ] Figures
 
 - [ ] Summary
 
@@ -243,11 +191,15 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 
 Chapter 5: Sleep Dynamics and Neuronal Excitability of DmIh
 -----------------------------------------------------------
-- [x] Think of several chapter titles to choose between
-- [x] Decide on chapter title
-- [x] Make preliminary outline of sections
+Finalizing:
+- [ ] Clean chapter of notes and todo's and slasks
+- [ ] Review all todoNotes in the document!
 
-### Chapter Parts ###
+Post-writing:
+- [ ] Send out for proof reading
+- [ ] Address comments from proof readings
+
+### Chapter 5: Parts ###
 - [ ] Overview
 
 - [ ] Introduction & Background
@@ -256,15 +208,17 @@ Chapter 5: Sleep Dynamics and Neuronal Excitability of DmIh
 	- [ ] Introduction
 		- [ ] Sleep & Dopamine and Ih
 	- [ ] Material and Methods
-	- [ ] Results
-	- [ ] Discussion
+	- [ ] Results & Discussion
+	- [ ] Conclusions
+	- [ ] Figures
 
 - [ ] Electrophysiological Study of the DmIh NMJ
 	- [ ] Introduction
 		- [ ] Decide how much of the other results to present
 	- [ ] Material and Methods
-	- [ ] Results
-	- [ ] Discussion
+	- [ ] Results & Discussion
+	- [ ] Conclusions
+	- [ ] Figures
 
 - [ ] Summary
 
