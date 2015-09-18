@@ -4,7 +4,7 @@ ToDo-List
 Paperwork
 ---------
 - [ ] Ask international reviewers
-- [ ] Ask about 5 or 7 committee
+- [ ] Ask program about 5 or 7 committee
 
 
 Document Set-Up
@@ -31,28 +31,28 @@ Post-writing:
 	- [x] Introduction
 	- [x] Fly Life Cycle, Rearing and Breeding
 	- [x] GAL4/UAS
+	- [x] Figures
+		- [x] Illustration of female and male Drosophila flies
 
 - [x] Measuring Drosophila's Innate Activity Patterns
 	- [x] Environmental Conditions
 	- [x] Drosophila Activity Monitor System
+	- [x] Figures
+		- [x] Photo of a DAMS monitor
+		- [x] Incubator and DAMS in place
 	
 - [x] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
 	- [x] What is fine-scale dynamics
 	- [x] Counts to bouts
 	- [x] Randomness, Burstiness and Memory
 	- [x] Finding simple functional forms
+	- [x] Figures
+		- [x] Counts to bouts illustration
+		- [x] Poisson, burstiness and memory
 
 - [ ] Statistical Analysis
 
 - [x] Summary
-
-- [x] Figures
-	- [x] Illustration of female and male Drosophila flies
-	- [x] Photo of a DAMS monitor
-	- [x] Incubator and DAMS in place
-	- [x] Counts to bouts illustration
-	- [x] Poisson, burstiness and memory
-
 
 
 Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
@@ -83,17 +83,17 @@ Post-writing:
 		- [x] What's been done in Drosophila (walking) before
 		- [x] What hasn't been done
 		- [x] What we did to fill this gap
-	- [x] Material and Methods
-		- [x] Flies & Rearing
-		- [x] Locomotor Activity Assay
-		- [x] Data Analysis
-		- [x] Statistical Analysis
 	- [ ] Results & Discussion
 		- [ ] Technical considerations when analyzing activity data
 		- [ ] Burstiness in \dro is described by a Weibull distribution
 		- [ ] The fitting technique correctly estimates the parameters
 		- [ ] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
 	- [ ] Conclusions
+	- [x] Material and Methods
+		- [x] Flies & Rearing
+		- [x] Locomotor Activity Assay
+		- [x] Data Analysis
+		- [x] Statistical Analysis
 	- [ ] Figures
 
 
@@ -104,31 +104,28 @@ Post-writing:
 		- [ ] Multimodal missing
 		- [ ] How does the dynamics of walking and flight relate? Do they?
 		- [ ] What we did to fill this gap
+	- [ ] Results & Discussion
+	- [ ] Conclusions
 	- [ ] Material and Methods
 		- [x] write ref "exp_multimodal" in experimental section of Multimodal experiment
 		- [ ] my WTB DAMS
 		- [ ] Describe flight simulator briefly
-	- [ ] Results & Discussion
-	- [ ] Conclusions
 	- [ ] Figures
 
 
 - [ ]  Behavioral Bursts and Decision-Making Circuits
 	- [ ] Introduction
-	- [x] Material and Methods
-		- [x] Flies & Rearing
-		- [x] Locomotor Activity Assay
-		- [x] Data Analysis
-		- [x] Statistical Analysis
 	- [x] Results & Discussion
 		- [x] Dopamine Signaling
 		- [x] Mushroom Bodies and Central Complex
 		- [x] Relating neuroanatomy to the bursty decision-making model
 	- [ ] Conclusions
-		- [ ] Write text
-		- [ ] Fix formatting
-		- [ ]  (Add citations)
-	- [x]  Figures
+	- [x] Material and Methods
+		- [x] Flies & Rearing
+		- [x] Locomotor Activity Assay
+		- [x] Data Analysis
+		- [x] Statistical Analysis
+	- [x] Figures
 		- [x]  Dopamine: Burstiness & Memory
 		- [x]  Dopamine: Activity & Burstiness
 		- [x]  MBs: Burstiness & Memory
@@ -137,6 +134,9 @@ Post-writing:
 
 
 - [ ] Summary
+	- [ ] Dynamics of Spontaneous Walking Activity in \dro
+	- [ ] A Common Framework Across Behaviors
+	- [ ] Behavioral Bursts and Decision-Making Circuits
 
 
 
@@ -163,9 +163,9 @@ Post-writing:
 		- [ ] Sleep in Drosophila
 		- [ ] The fine-scale dynamics of sleep in Drosophila has never been studied before
 		- [ ] What we did to fill this gap
-	- [ ] Material and Methods
 	- [ ] Results & Discussion
 	- [ ] Conclusions
+	- [ ] Material and Methods
 	- [ ] Figures
 
 - [ ] FlySiesta Analysis Suite & Bursts Toolbox
@@ -180,12 +180,15 @@ Post-writing:
 		- [ ] Sleep in zebrafish
 		- [ ] The fine-scale dynamics of sleep in zebrafish has never been studied before
 		- [ ] What we did to fill this gap
-	- [ ] Material and Methods
 	- [ ] Results & Discussion
 	- [ ] Conclusions
+	- [ ] Material and Methods
 	- [ ] Figures
 
 - [ ] Summary
+	- [ ] Fine-Scale Dynamics of Sleep in Drosophila
+	- [ ] FlySiesta Analysis Suite & Bursts Toolbox
+	- [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
 
 
 
@@ -207,20 +210,22 @@ Post-writing:
 - [ ] Sleep Dynamics in the DmIh Mutant 
 	- [ ] Introduction
 		- [ ] Sleep & Dopamine and Ih
-	- [ ] Material and Methods
 	- [ ] Results & Discussion
 	- [ ] Conclusions
+	- [ ] Material and Methods
 	- [ ] Figures
 
 - [ ] Electrophysiological Study of the DmIh NMJ
 	- [ ] Introduction
 		- [ ] Decide how much of the other results to present
-	- [ ] Material and Methods
 	- [ ] Results & Discussion
 	- [ ] Conclusions
+	- [ ] Material and Methods
 	- [ ] Figures
 
 - [ ] Summary
+	- [ ] Sleep Dynamics in the DmIh Mutant 
+	- [ ] Electrophysiological Study of the DmIh NMJ
 
 
 
