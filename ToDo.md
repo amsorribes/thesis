@@ -119,7 +119,7 @@ Post-writing:
 		- [x] Dopamine Signaling
 		- [x] Mushroom Bodies and Central Complex
 		- [x] Relating neuroanatomy to the bursty decision-making model
-	- [ ] Conclusions
+	- [x] Conclusions
 	- [x] Material and Methods
 		- [x] Flies & Rearing
 		- [x] Locomotor Activity Assay
