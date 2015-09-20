@@ -95,6 +95,7 @@ Post-writing:
 		- [x] Data Analysis
 		- [x] Statistical Analysis
 	- [ ] Figures
+		- [ ] Circadian activity pattern
 
 
 - [ ] A Common Framework Across Behaviors
