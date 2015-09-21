@@ -96,6 +96,8 @@ Post-writing:
 		- [x] Statistical Analysis
 	- [ ] Figures
 		- [ ] Circadian activity pattern
+		- [ ] WT Shape parameter k
+		- [ ] Validation, Fits
 
 
 - [ ] A Common Framework Across Behaviors
