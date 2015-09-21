@@ -98,6 +98,8 @@ Post-writing:
 		- [x] Circadian activity pattern
 		- [x] WT Shape parameter k
 		- [ ] Validation, Fits
+		- [ ] B-M plot
+		- [ ] Activity and Burstiness
 
 
 - [ ] A Common Framework Across Behaviors
