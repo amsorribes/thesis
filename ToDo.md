@@ -96,7 +96,7 @@ Post-writing:
 		- [x] Statistical Analysis
 	- [ ] Figures
 		- [x] Circadian activity pattern
-		- [ ] WT Shape parameter k
+		- [x] WT Shape parameter k
 		- [ ] Validation, Fits
 
 
