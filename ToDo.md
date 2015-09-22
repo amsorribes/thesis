@@ -177,8 +177,8 @@ Post-writing:
 
 - [ ] FlySiesta Analysis Suite & Bursts Toolbox
 	- [ ] Introduction
-	- [ ] Find old manuscript draft
-	- [ ] Follow disposition of manuscript draft?
+	- [ ] Design and Implementation
+	- [ ] Conclusions
 	- [ ] Figures
 
 - [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
