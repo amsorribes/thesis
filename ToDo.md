@@ -98,6 +98,7 @@ Post-writing:
 		- [x] Circadian activity pattern
 		- [x] Activity Raster Plot
 		- [x] WT Shape parameter k
+		- [ ] Log-Log plot with Weibull fit
 		- [ ] Validation, Fits
 		- [ ] B-M plot
 		- [ ] Activity and Burstiness
