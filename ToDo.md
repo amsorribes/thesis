@@ -280,3 +280,6 @@ Finally
 -------
 - [ ] Add Month and Year to title
 
+PDF-Version (Not print version!)
+-----------
+- [ ] Make pdf-links dark gray
