@@ -22,7 +22,7 @@ Chapter 2: Drosophila as a Model Organism for Studying Bursts
 -------------------------------------------------------------
 Post-writing:
 - [x] Send out for proof reading
-- [ ] Address comments from proof readings
+- [x] Address comments from proof readings
 
 ### Chapter 2: Parts ###
 - [x] Overview
