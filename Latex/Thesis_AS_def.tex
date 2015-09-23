@@ -1,7 +1,8 @@
 
 % --- Define new command sequences --- %
 \newcommand{\secref}[1]{\ref{#1}~\emph{\nameref{#1}}}
-
+\newcommand{\psecref}[1]{\ref{#1}~\emph{\nameref{#1}}~[p.~\pageref{#1}]}
+\newcommand{\pnumref}[1]{\ref{#1}~[p.~\pageref{#1}]}
 
 % --- Short-hand commands for frequently used words and phrases --- %
 \newcommand{\dro}{\textit{Drosophila }}
