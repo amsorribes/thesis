@@ -94,7 +94,7 @@ Post-writing:
 		- [x] Locomotor Activity Assay
 		- [x] Data Analysis
 		- [x] Statistical Analysis
-	- [ ] Figures
+	- [x] Figures
 		- [x] Circadian activity pattern
 		- [x] Activity Raster Plot
 		- [x] WT Shape parameter k
