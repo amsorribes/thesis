@@ -99,12 +99,12 @@ Post-writing:
 		- [x] Activity Raster Plot
 		- [x] WT Shape parameter k
 		- [x] Log-Log plot with Weibull fit
-		- [ ] Validation, Fits
+		- [x] Validation, Fits
 		- [ ] B-M plot
 		- [ ] Activity and Burstiness
 
 
-- [ ] A Common Framework Across Behaviors
+- [ ] A Flexible Framework Across Behaviors
 	- [x] Think of section title
 	- [ ] Introduction
 		- [ ] What's been done in Drosophila flying before
