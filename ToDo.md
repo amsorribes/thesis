@@ -87,7 +87,7 @@ Post-writing:
 		- [x] Technical considerations when analyzing activity data
 		- [x] Burstiness in \dro is described by a Weibull distribution
 		- [x] The fitting technique correctly estimates the parameters
-		- [ ] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
+		- [x] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
 	- [ ] Conclusions
 	- [x] Material and Methods
 		- [x] Flies & Rearing
@@ -100,8 +100,8 @@ Post-writing:
 		- [x] WT Shape parameter k
 		- [x] Log-Log plot with Weibull fit
 		- [x] Validation, Fits
-		- [ ] B-M plot
 		- [ ] Activity and Burstiness
+		- [ ] B-M plot
 
 
 - [ ] A Flexible Framework Across Behaviors
