@@ -100,7 +100,7 @@ Post-writing:
 		- [x] WT Shape parameter k
 		- [x] Log-Log plot with Weibull fit
 		- [x] Validation, Fits
-		- [ ] Activity and Burstiness
+		- [x] Activity and Burstiness
 		- [ ] B-M plot
 
 
