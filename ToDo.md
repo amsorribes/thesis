@@ -86,7 +86,7 @@ Post-writing:
 	- [ ] Results & Discussion
 		- [x] Technical considerations when analyzing activity data
 		- [x] Burstiness in \dro is described by a Weibull distribution
-		- [ ] The fitting technique correctly estimates the parameters
+		- [x] The fitting technique correctly estimates the parameters
 		- [ ] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
 	- [ ] Conclusions
 	- [x] Material and Methods
