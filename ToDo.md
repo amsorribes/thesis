@@ -101,7 +101,7 @@ Post-writing:
 		- [x] Log-Log plot with Weibull fit
 		- [x] Validation, Fits
 		- [x] Activity and Burstiness
-		- [ ] B-M plot
+		- [x] B-M plot
 
 
 - [ ] A Flexible Framework Across Behaviors
