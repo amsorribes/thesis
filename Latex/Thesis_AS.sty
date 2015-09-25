@@ -33,9 +33,18 @@
 %\crop[cam]   % "frame" for box
 
 
+% - Change MARGINS -
+\addtolength{\oddsidemargin}{-.155in}
+\addtolength{\evensidemargin}{-.155in}
+\addtolength{\textwidth}{.31in}
+
+\addtolength{\topmargin}{-.4in}
+\setlength{\textheight}{542pt}
+
+
 %- Control White Space -%
  % Un-enforce paragraphs to the bottom, removing stretched whitespace between them
-\raggedbottom 
+%\raggedbottom 
 
 % Handle overfull and underfull hboxes
   % badness measures the fit of the text on a line, with value between 0 (perfect) and 10000 (horrible).
@@ -58,7 +67,7 @@
 
 % Increase Line Spacing and Improve End of Page Handling
 \renewcommand\baselinestretch{1.25}
-\baselineskip=18pt plus2pt minus1pt
+%\baselineskip=18pt plus 4pt % has no effect!
 
 % Adjust Paragraph indentation
 \setlength{\parindent}{15pt} % Default: 18pt
@@ -103,6 +112,21 @@
   {0.5em}
   {}
   {\vspace{2pt}}
+
+% - HEADER SPACING (before and after text) -
+\titlespacing*{\section}
+{0pt}{37pt plus 6pt minus 2pt}{17pt plus 6pt minus 1pt}
+
+\titlespacing*{\subsection}
+{0pt}{27pt plus 20pt minus 11pt}{11pt plus 1pt minus 1pt}
+
+\titlespacing*{\subsubsection}
+{0pt}{21pt plus 17pt minus 1pt}{5pt plus 1pt}
+
+
+% - CREATE EXTRA SPACE FOR RESULTS SECTIONS -
+\newcommand{\partspace}{\vspace{11pt}}
+\newcommand{\resultspace}{\vspace{7pt}}
 
 
 % Chapter
