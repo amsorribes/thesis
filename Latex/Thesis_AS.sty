@@ -154,6 +154,9 @@
   \fi
 }
 
+% Create a counter for mid-text references (not a whole section, but "see page x" for...)
+\newcounter{intextcounter}
+\newcommand*{\intextlabel}[1]{\refstepcounter{intextcounter}\theintextcounter\label{#1}}
 
 
 % --- Table of Contents --- %
@@ -244,12 +247,12 @@
 % --- Drafting the Document ---%
 
 % Margin Notes
-\usepackage[backgroundcolor=white,
-            linecolor=gray,
-            bordercolor=gray,
-            textsize=scriptsize]
-            {todonotes}
-
-\usepackage{comment}
+%\usepackage[backgroundcolor=white,
+%            linecolor=gray,
+%            bordercolor=gray,
+%            textsize=scriptsize]
+%            {todonotes}
+%
+%\usepackage{comment}
 %\excludecomment{draft}
 %
