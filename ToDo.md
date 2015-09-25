@@ -83,7 +83,7 @@ Post-writing:
 		- [x] What's been done in Drosophila (walking) before
 		- [x] What hasn't been done
 		- [x] What we did to fill this gap
-	- [ ] Results & Discussion
+	- [x] Results & Discussion
 		- [x] Technical considerations when analyzing activity data
 		- [x] Burstiness in \dro is described by a Weibull distribution
 		- [x] The fitting technique correctly estimates the parameters
