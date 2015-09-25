@@ -88,7 +88,7 @@ Post-writing:
 		- [x] Burstiness in \dro is described by a Weibull distribution
 		- [x] The fitting technique correctly estimates the parameters
 		- [x] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
-	- [ ] Conclusions
+	- [x] Conclusions
 	- [x] Material and Methods
 		- [x] Flies & Rearing
 		- [x] Locomotor Activity Assay
