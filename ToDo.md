@@ -33,6 +33,7 @@ Post-writing:
 	- [x] GAL4/UAS
 	- [x] Figures
 		- [x] Illustration of female and male Drosophila flies
+		- [x] Gal4/UAS System
 
 - [x] Measuring Drosophila's Innate Activity Patterns
 	- [x] Environmental Conditions
