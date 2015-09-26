@@ -58,8 +58,6 @@ Post-writing:
 
 Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 --------------------------------------------------------------
-- [ ] Go over, organize? notes file, use some in ch 3
-
 Finalizing:
 - [ ] Clean chapter of notes and todo's and slasks
 - [ ] Review all todoNotes in the document!
@@ -78,7 +76,7 @@ Post-writing:
 	- [x] Chapter Outline
 
 
-- [ ] Dynamics of Spontaneous Walking Activity in \dro
+- [x] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Think of section title
 	- [x] Introduction
 		- [x] What's been done in Drosophila (walking) before
