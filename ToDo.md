@@ -73,7 +73,6 @@ Post-writing:
 	- [x] Movement Patterns and Spontaneous Behavior
 	- [x] Chapter Outline
 
-
 - [x] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Think of section title
 	- [x] Introduction
@@ -100,7 +99,6 @@ Post-writing:
 		- [x] Activity and Burstiness
 		- [x] B-M plot
 
-
 - [x]  Behavioral Bursts and Decision-Making Circuits
 	- [x] Introduction
 	- [x] Results & Discussion
@@ -120,8 +118,7 @@ Post-writing:
 		- [x]  MBs: Activity & Burstiness
 		- [x]  CCX: Burstiness & Memory
 
-
-- [ ] Chapter Summary
+- [x] Chapter Summary
 	- [x] Summarize Introduction & Background
 	- [x] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Behavioral Bursts and Decision-Making Circuits
