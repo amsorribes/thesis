@@ -173,12 +173,6 @@ Post-writing:
 	- [ ] Material and Methods
 	- [ ] Figures
 
-- [ ] FlySiesta Analysis Suite & Bursts Toolbox
-	- [ ] Introduction
-	- [ ] Design and Implementation
-	- [ ] Conclusions
-	- [ ] Figures
-
 - [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
 	- [ ] Follow the article? Or:
 	- [ ] Introduction
@@ -192,7 +186,6 @@ Post-writing:
 
 - [ ] Chapter Summary
 	- [ ] Fine-Scale Dynamics of Sleep in Drosophila
-	- [ ] FlySiesta Analysis Suite & Bursts Toolbox
 	- [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
 
 
