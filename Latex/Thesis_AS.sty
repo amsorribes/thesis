@@ -124,9 +124,9 @@
 {0pt}{21pt plus 17pt minus 1pt}{5pt plus 1pt}
 
 
-% - CREATE EXTRA SPACE FOR RESULTS SECTIONS -
-\newcommand{\partspace}{\vspace{11pt}}
-\newcommand{\resultspace}{\vspace{7pt}}
+% - Define margins for OVERVIEW sections -
+\def\overview#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]\item[]}
+\let\endoverview=\endlist 
 
 
 % Chapter
