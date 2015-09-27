@@ -51,8 +51,6 @@ Post-writing:
 		- [x] Counts to bouts illustration
 		- [x] Poisson, burstiness and memory
 
-- [ ] Statistical Analysis
-
 - [x] Chapter Summary
 
 
