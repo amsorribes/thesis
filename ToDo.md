@@ -101,22 +101,6 @@ Post-writing:
 		- [x] B-M plot
 
 
-- [ ] A Flexible Framework Across Behaviors
-	- [x] Think of section title
-	- [ ] Introduction
-		- [ ] What's been done in Drosophila flying before
-		- [ ] Multimodal missing
-		- [ ] How does the dynamics of walking and flight relate? Do they?
-		- [ ] What we did to fill this gap
-	- [ ] Results & Discussion
-	- [ ] Conclusions
-	- [ ] Material and Methods
-		- [x] write ref "exp_multimodal" in experimental section of Multimodal experiment
-		- [ ] my WTB DAMS
-		- [ ] Describe flight simulator briefly
-	- [ ] Figures
-
-
 - [x]  Behavioral Bursts and Decision-Making Circuits
 	- [x] Introduction
 	- [x] Results & Discussion
@@ -140,7 +124,6 @@ Post-writing:
 - [ ] Chapter Summary
 	- [x] Summarize Introduction & Background
 	- [x] Dynamics of Spontaneous Walking Activity in \dro
-	- [ ] A Common Framework Across Behaviors
 	- [x] Behavioral Bursts and Decision-Making Circuits
 
 
