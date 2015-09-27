@@ -198,7 +198,7 @@ Post-writing:
 		- [ ] Decide how much of the other results to present
 	- [ ] Results & Discussion
 	- [ ] Conclusions
-	- [ ] Material and Methods
+	- [x] Material and Methods
 	- [ ] Figures
 
 - [ ] Chapter Summary
