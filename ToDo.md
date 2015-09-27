@@ -53,7 +53,7 @@ Post-writing:
 
 - [ ] Statistical Analysis
 
-- [x] Summary
+- [x] Chapter Summary
 
 
 Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
@@ -139,7 +139,7 @@ Post-writing:
 		- [x]  CCX: Burstiness & Memory
 
 
-- [ ] Summary
+- [ ] Chapter Summary
 	- [x] Summarize Introduction & Background
 	- [x] Dynamics of Spontaneous Walking Activity in \dro
 	- [ ] A Common Framework Across Behaviors
@@ -192,7 +192,7 @@ Post-writing:
 	- [ ] Material and Methods
 	- [ ] Figures
 
-- [ ] Summary
+- [ ] Chapter Summary
 	- [ ] Fine-Scale Dynamics of Sleep in Drosophila
 	- [ ] FlySiesta Analysis Suite & Bursts Toolbox
 	- [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
@@ -230,7 +230,7 @@ Post-writing:
 	- [ ] Material and Methods
 	- [ ] Figures
 
-- [ ] Summary
+- [ ] Chapter Summary
 	- [ ] Sleep Dynamics in the DmIh Mutant 
 	- [ ] Electrophysiological Study of the DmIh NMJ
 
