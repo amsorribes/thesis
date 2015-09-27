@@ -119,7 +119,7 @@ Post-writing:
 	- [ ] Figures
 
 
-- [ ]  Behavioral Bursts and Decision-Making Circuits
+- [x]  Behavioral Bursts and Decision-Making Circuits
 	- [x] Introduction
 	- [x] Results & Discussion
 		- [x] Dopamine Signaling
