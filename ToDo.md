@@ -120,7 +120,7 @@ Post-writing:
 
 
 - [ ]  Behavioral Bursts and Decision-Making Circuits
-	- [ ] Introduction
+	- [x] Introduction
 	- [x] Results & Discussion
 		- [x] Dopamine Signaling
 		- [x] Mushroom Bodies and Central Complex
