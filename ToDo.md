@@ -61,7 +61,7 @@ Finalizing:
 - [ ] Review all todoNotes in the document!
 
 Post-writing:
-- [ ] Send out for proof reading
+- [x] Send out for proof reading
 - [ ] Address comments from proof readings
 
 
