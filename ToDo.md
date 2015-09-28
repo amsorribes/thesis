@@ -139,9 +139,10 @@ Post-writing:
 - [ ] Overview
 
 - [ ] Introduction & Background
-	- [ ] Sleep, the big questions, the different hypotheses (Do I need this? Not really relevant to my studies - Maybe yes but short, 1 paragraph)
-	- [ ] Sleep research in model organisms (generally, short, specifics in each sections introduction!)
-	- [ ] Fine-scale dynamics of sleep in other organisms
+	- [x] Introductory Paragraph
+	- [ ] Sleep-Wake Dynamics
+	- [ ] Sleep in Simpler Model Organisms
+	- [ ] Chapter Outline
 
 - [ ] Fine-Scale Dynamics of Sleep in Drosophila
 	- [ ] Introduction
