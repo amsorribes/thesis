@@ -62,7 +62,7 @@ Finalizing:
 
 Post-writing:
 - [x] Send out for proof reading
-- [ ] Address comments from proof readings
+- [x] Address comments from proof readings
 
 
 ### Chapter 3: Parts ###
