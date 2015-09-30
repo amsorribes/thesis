@@ -92,7 +92,7 @@ Post-writing:
 		- [x] Statistical Analysis
 	- [x] Figures
 		- [x] Levy and Brownian trajectories
-		- [ ] Beetles, Grasshoppers, Ants
+		- [x] Beetles, Grasshoppers, Ants
 		- [ ] Albatrosses
 		- [ ] Y-Maze and Torque Meter
 		- [x] Circadian activity pattern
