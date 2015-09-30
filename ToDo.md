@@ -91,6 +91,10 @@ Post-writing:
 		- [x] Data Analysis
 		- [x] Statistical Analysis
 	- [x] Figures
+		- [ ] Levy and Brownian trajectories
+		- [ ] Beetles, Grasshoppers, Ants
+		- [ ] Albatrosses
+		- [ ] Y-Maze and Torque Meter
 		- [x] Circadian activity pattern
 		- [x] Activity Raster Plot
 		- [x] WT Shape parameter k
