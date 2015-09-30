@@ -94,7 +94,7 @@ Post-writing:
 		- [x] Levy and Brownian trajectories
 		- [x] Beetles, Grasshoppers, Ants
 		- [x] Albatrosses
-		- [ ] Y-Maze and Torque Meter
+		- [x] Y-Maze and Torque Meter
 		- [x] Circadian activity pattern
 		- [x] Activity Raster Plot
 		- [x] WT Shape parameter k
