@@ -175,6 +175,7 @@ Post-writing:
 	- [ ] Figures
 
 - [ ] Chapter Summary
+	- [ ] Introduction & Background
 	- [ ] Fine-Scale Dynamics of Sleep in Drosophila
 	- [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
 
