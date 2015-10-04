@@ -219,6 +219,7 @@ Post-writing:
 	- [ ] Figures
 
 - [ ] Chapter Summary
+	- [ ] Introduction & Background
 	- [ ] Sleep Dynamics in the DmIh Mutant 
 	- [ ] Electrophysiological Study of the DmIh NMJ
 
