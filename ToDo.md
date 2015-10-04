@@ -74,6 +74,12 @@ Post-writing:
 	- [x] Modeling Animal Movement Trajectories
 	- [x] Movement Patterns and Spontaneous Behavior
 	- [x] Chapter Outline
+	- [x] Figures
+		- [x] Levy and Brownian trajectories
+		- [x] Beetles, Grasshoppers, Ants
+		- [x] Albatrosses
+		- [x] Y-Maze and Torque Meter
+		- [x] Circadian activity pattern
 
 - [x] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Think of section title
@@ -93,10 +99,6 @@ Post-writing:
 		- [x] Data Analysis
 		- [x] Statistical Analysis
 	- [x] Figures
-		- [x] Levy and Brownian trajectories
-		- [x] Beetles, Grasshoppers, Ants
-		- [x] Albatrosses
-		- [x] Y-Maze and Torque Meter
 		- [x] Circadian activity pattern
 		- [x] Activity Raster Plot
 		- [x] WT Shape parameter k
