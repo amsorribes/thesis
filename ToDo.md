@@ -155,7 +155,7 @@ Post-writing:
 	- [ ] Sleep in Simpler Model Organisms
 	- [ ] Chapter Outline
 	- [ ] Figures
-		- [ ] Wake and Sleep Distributions in Mammals
+		- [x] Wake and Sleep Distributions in Mammals
 
 - [ ] Fine-Scale Dynamics of Sleep in Drosophila
 	- [ ] Introduction
