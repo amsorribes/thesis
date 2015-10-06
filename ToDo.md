@@ -151,7 +151,7 @@ Post-writing:
 - [ ] Introduction & Background
 	- [x] Introductory Paragraph
 	- [x] Sleep-Wake Regulation in Mammals
-	- [ ] Sleep-Wake Dynamics
+	- [x] Sleep-Wake Dynamics
 	- [ ] Sleep in Simpler Model Organisms
 	- [ ] Chapter Outline
 	- [ ] Figures
