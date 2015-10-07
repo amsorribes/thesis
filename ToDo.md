@@ -150,10 +150,11 @@ Post-writing:
 
 - [ ] Introduction & Background
 	- [x] Introductory Paragraph
+		- [ ] Remove mention of chapter outline
 	- [x] Sleep-Wake Regulation in Mammals
 	- [x] Sleep-Wake Dynamics
 	- [ ] Sleep in Simpler Model Organisms
-	- [ ] Chapter Outline
+	- [ ] Remove from tex-file: chapter outline
 	- [ ] Figures
 		- [x] Wake and Sleep Distributions in Mammals
 
