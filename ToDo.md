@@ -81,7 +81,7 @@ Post-writing:
 		- [x] Y-Maze and Torque Meter
 		- [x] Circadian activity pattern
 
-- [x] Dynamics of Spontaneous Walking Activity in \dro
+- [ ] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Think of section title
 	- [x] Introduction
 		- [x] What's been done in Drosophila (walking) before
@@ -92,13 +92,14 @@ Post-writing:
 		- [x] Burstiness in \dro is described by a Weibull distribution
 		- [x] The fitting technique correctly estimates the parameters
 		- [x] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
+			- [ ] DFA, add?
 	- [x] Conclusions
 	- [x] Material and Methods
 		- [x] Flies & Rearing
 		- [x] Locomotor Activity Assay
 		- [x] Data Analysis
 		- [x] Statistical Analysis
-	- [x] Figures
+	- [ ] Figures
 		- [x] Circadian activity pattern
 		- [x] Activity Raster Plot
 		- [x] WT Shape parameter k
@@ -106,6 +107,7 @@ Post-writing:
 		- [x] Validation, Fits
 		- [x] Activity and Burstiness
 		- [x] B-M plot
+		- [ ] DFA ??
 
 - [x]  Behavioral Bursts and Decision-Making Circuits
 	- [x] Introduction
