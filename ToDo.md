@@ -64,7 +64,7 @@ Post-writing:
 - [x] Send out for copy-editing
 - [x] Address comments from copy-editing
 - [x] Send out for revision (x2)
-- [ ] Address comments from revisions
+- [x] Address comments from revisions
 
 
 ### Chapter 3: Parts ###
