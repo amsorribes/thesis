@@ -40,7 +40,7 @@ Post-writing:
 	- [x] Drosophila Activity Monitor System
 	- [x] Figures
 		- [x] Photo of a DAMS monitor
-		- [x] Incubator and DAMS in place
+		- [x] Incubator and DAMS in place (BW)
 	
 - [x] Analyzing the Fine-Scale Dynamics of Spontaneous Activity
 	- [x] What is fine-scale dynamics
