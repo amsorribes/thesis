@@ -48,7 +48,7 @@ Post-writing:
 	- [x] Randomness, Burstiness and Memory
 	- [x] Finding simple functional forms
 	- [x] Figures
-		- [x] Counts to bouts illustration
+		- [x] Counts to bouts illustration (BW)
 		- [x] Poisson, burstiness and memory
 
 - [x] Chapter Summary
