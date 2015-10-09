@@ -205,7 +205,7 @@ Post-writing:
 
 - [ ] Introduction & Background
 	- [ ] The Ih Current
-	- [ ] Chapter Overview
+	- [ ] Remove from tex-file: Chapter Overview
 
 - [ ] Sleep Dynamics in the DmIh Mutant 
 	- [ ] Introduction
