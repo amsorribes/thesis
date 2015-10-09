@@ -77,7 +77,7 @@ Post-writing:
 	- [x] Figures
 		- [x] Levy and Brownian trajectories
 		- [x] Beetles, Grasshoppers, Ants
-		- [x] Albatrosses
+		- [x] Albatrosses (BW)
 		- [x] Y-Maze and Torque Meter
 		- [x] Circadian activity pattern
 
