@@ -171,11 +171,7 @@ Post-writing:
 	- [ ] Figures
 
 - [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
-	- [ ] Follow the article? Or:
-	- [ ] Introduction
-		- [ ] Sleep in zebrafish
-		- [ ] The fine-scale dynamics of sleep in zebrafish has never been studied before
-		- [ ] What we did to fill this gap
+	- [x] Introduction
 	- [ ] Results & Discussion
 	- [ ] Conclusions
 	- [ ] Material and Methods
