@@ -56,10 +56,6 @@ Post-writing:
 
 Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 --------------------------------------------------------------
-Finalizing:
-- [ ] Clean chapter of notes and todo's and slasks
-- [ ] Review all todoNotes in the document!
-
 Post-writing:
 - [x] Send out for copy-editing
 - [x] Address comments from copy-editing
