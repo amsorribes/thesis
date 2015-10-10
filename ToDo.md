@@ -171,6 +171,7 @@ Post-writing:
 	- [ ] Results & Discussion
 		- [ ] Human Sleep & Wake Bouts
 		- [ ] Zebrafish Sleep & Wake Bouts
+		- [ ] Sleep Dynamics in Humans and Zebrafish Across Ontogeny
 	- [ ] Conclusions
 	- [ ] Material and Methods
 	- [ ] Figures
