@@ -169,6 +169,8 @@ Post-writing:
 - [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
 	- [x] Introduction
 	- [ ] Results & Discussion
+		- [ ] Human Sleep & Wake Bouts
+		- [ ] Zebrafish Sleep & Wake Bouts
 	- [ ] Conclusions
 	- [ ] Material and Methods
 	- [ ] Figures
