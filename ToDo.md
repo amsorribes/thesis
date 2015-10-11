@@ -5,6 +5,7 @@ Paperwork
 ---------
 - [ ] Ask international reviewers
 - [ ] Ask program about 5 or 7 committee
+- [x] Organize and print paperwork
 
 
 Document Set-Up
