@@ -178,6 +178,8 @@ Post-writing:
 	- [ ] Conclusions
 	- [ ] Material and Methods
 	- [ ] Figures
+		- [ ] Rebuild Human Sleep-Wake Structure
+		- [ ] Rebuild Zebrafish Sleep-Wake Structure
 
 - [ ] Chapter Summary
 	- [ ] Introduction & Background
