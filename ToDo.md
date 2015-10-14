@@ -6,6 +6,8 @@ Paperwork
 - [ ] Ask international reviewers
 - [ ] Ask program about 5 or 7 committee
 - [x] Organize and print paperwork
+- [x] Tutela academica
+- [x] Justificante de tutelas, doctorado
 
 
 Document Set-Up
