@@ -25,6 +25,7 @@ Post-writing:
 - [x] Send out for proof reading
 - [x] Address comments from proof readings
 - [x] Incorporate suggestions from review 1
+- [x] Send out for review 2
 
 ### Chapter 2: Parts ###
 - [x] Overview
