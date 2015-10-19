@@ -181,7 +181,7 @@ Post-writing:
 	- [ ] Figures
 		- [x] Human Sleep-Wake Structure (with caption)
 		- [x] Zebrafish Sleep-Wake Structure (with caption)
-		- [ ] Make 24h Human sleep plot
+
 
 - [ ] Chapter Summary
 	- [ ] Introduction & Background
