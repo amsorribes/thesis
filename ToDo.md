@@ -180,7 +180,7 @@ Post-writing:
 	- [ ] Material and Methods
 	- [ ] Figures
 		- [x] Human Sleep-Wake Structure (with caption)
-		- [x] Rebuild Zebrafish Sleep-Wake Structure
+		- [x] Zebrafish Sleep-Wake Structure (with caption)
 		- [ ] Make 24h Human sleep plot
 
 - [ ] Chapter Summary
