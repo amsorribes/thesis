@@ -179,7 +179,7 @@ Post-writing:
 	- [ ] Conclusions
 	- [ ] Material and Methods
 	- [ ] Figures
-		- [x] Rebuild Human Sleep-Wake Structure
+		- [x] Human Sleep-Wake Structure (with caption)
 		- [x] Rebuild Zebrafish Sleep-Wake Structure
 		- [ ] Make 24h Human sleep plot
 
