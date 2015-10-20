@@ -6,6 +6,7 @@ Paperwork
 - [x] Organize and print paperwork
 - [x] Tutela academica
 - [x] Justificante de tutelas, doctorado
+- [x] CV of training and research activity
 
 
 Document Set-Up
