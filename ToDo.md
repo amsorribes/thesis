@@ -7,6 +7,7 @@ Paperwork
 - [x] Tutela academica
 - [x] Justificante de tutelas, doctorado
 - [x] CV of training and research activity
+- [x] Contacted committee members
 
 
 Document Set-Up
