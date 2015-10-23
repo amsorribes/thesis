@@ -8,6 +8,7 @@ Paperwork
 - [x] Justificante de tutelas, doctorado
 - [x] CV of training and research activity
 - [x] Contacted committee members
+- [x] Finish infor
 
 
 Document Set-Up
