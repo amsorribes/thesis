@@ -9,6 +9,7 @@ Paperwork
 - [x] CV of training and research activity
 - [x] Contacted committee members
 - [x] Finish infor
+- [x] Send infor
 
 
 Document Set-Up
