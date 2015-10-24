@@ -230,6 +230,9 @@ Post-writing:
 	- [ ] Introduction
 		- [x] Decide how much of the other results to present
 	- [ ] Results & Discussion
+		- [ ] minis & EJPs
+		- [ ] Dynamics
+		- [ ] Blocker
 	- [ ] Conclusions
 	- [x] Material and Methods
 	- [ ] Figures
