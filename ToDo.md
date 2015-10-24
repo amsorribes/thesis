@@ -228,7 +228,7 @@ Post-writing:
 
 - [ ] Electrophysiological Study of the DmIh NMJ
 	- [ ] Introduction
-		- [ ] Decide how much of the other results to present
+		- [x] Decide how much of the other results to present
 	- [ ] Results & Discussion
 	- [ ] Conclusions
 	- [x] Material and Methods
