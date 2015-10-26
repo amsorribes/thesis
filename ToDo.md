@@ -188,7 +188,7 @@ Post-writing:
 	- [ ] Conclusions
 	- [ ] Material and Methods
 	- [ ] Figures
-		- [ ] Make distribution of ages of participants
+		- [x] Distribution of ages of participants (with caption)
 		- [x] Human Sleep-Wake Structure (with caption)
 		- [x] Zebrafish Sleep-Wake Structure (with caption)
 
