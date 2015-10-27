@@ -187,7 +187,7 @@ Post-writing:
 			- [ ] Comparison
 	- [ ] Conclusions
 	- [ ] Material and Methods
-		- [ ] Human Sleep Data
+		- [x] Human Sleep Data
 		- [ ] Zebrafish Sleep Data
 		- [ ] Statistical Analysis
 	- [ ] Figures
