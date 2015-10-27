@@ -6,9 +6,9 @@ Paperwork to Deposit
 - [ ] Solicitud de autorización
 - [ ] Tesis encuadernada
 - [ ] CD con tesis
-- [ ] Curriculum Vitae
-- [ ] Justificante de inscripción de la tutela académica
-- [ ] Informe motivado del director
+- [x] Curriculum Vitae
+- [x] Justificante de inscripción de la tutela académica
+- [x] Informe motivado del director
 - [ ] Propuesta de tribunal
 
 
