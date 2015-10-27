@@ -1,16 +1,15 @@
 ToDo-List
 =========
 
-Paperwork
----------
-- [x] Organize and print paperwork
-- [x] Tutela academica
-- [x] Justificante de tutelas, doctorado
-- [x] CV of training and research activity
-- [x] Contacted committee members
-- [x] Finish infor
-- [x] Send current draft
-- [x] Send infor
+Paperwork to Deposit
+--------------------
+- [ ] Solicitud de autorización
+- [ ] Tesis encuadernada
+- [ ] CD con tesis
+- [ ] Curriculum Vitae
+- [ ] Justificante de inscripción de la tutela académica
+- [ ] Informe motivado del director
+- [ ] Propuesta de tribunal
 
 
 Document Set-Up
