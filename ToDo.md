@@ -188,7 +188,7 @@ Post-writing:
 	- [ ] Material and Methods
 		- [x] Human Sleep Data
 		- [x] Zebrafish Sleep Data
-		- [ ] Statistical Analysis
+		- [x] Statistical Analysis
 	- [ ] Figures
 		- [x] Distribution of ages of participants (with caption)
 		- [x] Human Sleep-Wake Structure (with caption)
