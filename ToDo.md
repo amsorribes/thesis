@@ -187,7 +187,7 @@ Post-writing:
 	- [ ] Conclusions
 	- [ ] Material and Methods
 		- [x] Human Sleep Data
-		- [ ] Zebrafish Sleep Data
+		- [x] Zebrafish Sleep Data
 		- [ ] Statistical Analysis
 	- [ ] Figures
 		- [x] Distribution of ages of participants (with caption)
