@@ -113,6 +113,13 @@
   {}
   {\vspace{2pt}}
 
+\titleformat{\paragraph}%[hang]
+  {\fontsize{11}{14}\selectfont\sffamily\bfseries}
+  {\theparagraph}
+  {0.5em}
+  {}
+  {\vspace{2pt}}
+
 % - HEADER SPACING (before and after text) -
 \titlespacing*{\section}
 {0pt}{37pt plus 6pt minus 2pt}{17pt plus 6pt minus 1pt}
@@ -123,6 +130,8 @@
 \titlespacing*{\subsubsection}
 {0pt}{21pt plus 17pt minus 1pt}{5pt plus 1pt}
 
+\titlespacing*{\paragraph}
+{0pt}{17pt plus 11pt minus 1pt}{5pt plus 1pt}
 
 % - Define margins for OVERVIEW sections -
 \def\overview#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]\item[]}
@@ -191,13 +200,14 @@
 % Control Numbering of Levels in Text and TOC
   % Setting these to 2 means that \subsubsection can be used as unnumbered small bold headings
 \setcounter{secnumdepth}{2}   % levels are: 0 - chapter, 1 - section
-\setcounter{tocdepth}{3}      %             2 - subsection, 3 - subsubsection
+\setcounter{tocdepth}{4}      %             2 - subsection, 3 - subsubsection
 
 % Set indentations in the TOC
 \makeatletter
   \renewcommand*\l@section{\@dottedtocline{1}{0em}{2em}}
   \renewcommand*\l@subsection{\@dottedtocline{2}{2em}{2.8em}}
   \renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0.4em}}
+  \renewcommand*\l@paragraph{\@dottedtocline{4}{4em}{0em}}
 \makeatother
 
 
@@ -221,7 +231,7 @@
 %\usepackage[\GinDriver,breaklinks,pagebackref]{hyperref} % use backref/pagebackref for back-citations to sections/pages
 
 \hypersetup{%
-  pdftitle={},
+  pdftitle={Bursty Behavioral Dynamics of Activity and Sleep},
   pdfauthor={Amanda Sorribes},
   pdfsubject={Doctoral Dissertation},
   pdfcreator={Amanda Sorribes},
