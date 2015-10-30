@@ -185,7 +185,7 @@ Post-writing:
 				- [x] Method
 			- [ ] Sleep-Wake Structure
 				- [x] Humans
-				- [ ] Zebrafish
+				- [x] Zebrafish
 			- [ ] Sleep-Wake Dynamics
 				- [ ] Humans
 				- [ ] Zebrafish
