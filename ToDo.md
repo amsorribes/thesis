@@ -183,8 +183,12 @@ Post-writing:
 			- [x] Intro on method
 				- [x] Models
 				- [x] Method
-			- [ ] Results Humans
-			- [ ] Results Zebrafish
+			- [ ] Sleep-Wake Structure
+				- [x] Humans
+				- [ ] Zebrafish
+			- [ ] Sleep-Wake Dynamics
+				- [ ] Humans
+				- [ ] Zebrafish
 			- [ ] Comparison
 	- [ ] Conclusions
 	- [x] Material and Methods
