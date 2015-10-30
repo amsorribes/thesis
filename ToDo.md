@@ -182,7 +182,7 @@ Post-writing:
 		- [ ] Sleep-Wake Dynamics in Humans and Zebrafish Across Ontogeny
 			- [ ] Intro on method
 				- [x] Models
-				- [ ] Method
+				- [x] Method
 			- [ ] Results Humans
 			- [ ] Results Zebrafish
 			- [ ] Comparison
