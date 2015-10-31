@@ -186,7 +186,7 @@ Post-writing:
 			- [x] Sleep-Wake Structure
 				- [x] Humans
 				- [x] Zebrafish
-			- [ ] Sleep-Wake Dynamics
+			- [x] Sleep-Wake Dynamics
 				- [x] Humans
 				- [x] Zebrafish
 			- [ ] Comparison
