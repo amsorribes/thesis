@@ -188,7 +188,7 @@ Post-writing:
 				- [x] Zebrafish
 			- [ ] Sleep-Wake Dynamics
 				- [x] Humans
-				- [ ] Zebrafish
+				- [x] Zebrafish
 			- [ ] Comparison
 	- [ ] Conclusions
 	- [x] Material and Methods
