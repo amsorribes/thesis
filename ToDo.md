@@ -200,7 +200,7 @@ Post-writing:
 		- [x] Human Sleep-Wake Structure (with caption)
 		- [x] Zebrafish Sleep-Wake Structure (with caption)
 		- [x] Sleep-Wake Dynamics in Humans and Zebrafish (with caption)
-		- [ ] Individual Sleep-Wake Distribution in Zebrafish (with caption)
+		- [x] Individual Sleep-Wake Distribution in Zebrafish (with caption)
 
 
 - [ ] Chapter Summary
