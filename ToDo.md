@@ -199,7 +199,7 @@ Post-writing:
 		- [x] Distribution of ages of participants (with caption)
 		- [x] Human Sleep-Wake Structure (with caption)
 		- [x] Zebrafish Sleep-Wake Structure (with caption)
-		- [ ] Sleep-Wake Dynamics in Humans and Zebrafish (with caption)
+		- [x] Sleep-Wake Dynamics in Humans and Zebrafish (with caption)
 		- [ ] Individual Sleep-Wake Distribution in Zebrafish (with caption)
 
 
