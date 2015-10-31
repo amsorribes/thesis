@@ -195,7 +195,7 @@ Post-writing:
 		- [x] Human Sleep Data
 		- [x] Zebrafish Sleep Data
 		- [x] Statistical Analysis
-	- [ ] Figures
+	- [x] Figures
 		- [x] Distribution of ages of participants (with caption)
 		- [x] Human Sleep-Wake Structure (with caption)
 		- [x] Zebrafish Sleep-Wake Structure (with caption)
