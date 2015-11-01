@@ -140,14 +140,10 @@ Post-writing:
 
 Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 -------------------------------------------------------------
-Finalizing:
-- [x] Clean chapter of notes and todo's and slasks
-- [x] Review all todoNotes in the document!
-
 Post-writing:
 - [x] Send out for copy-editing
 - [ ] Address comments from copy-editing
-- [ ] Send out for revision (x2)
+- [x] Send out for revision (x2)
 - [ ] Address comments from revisions
 
 ### Chapter 4: Parts ###
