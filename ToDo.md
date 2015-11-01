@@ -145,7 +145,7 @@ Finalizing:
 - [x] Review all todoNotes in the document!
 
 Post-writing:
-- [ ] Send out for copy-editing
+- [x] Send out for copy-editing
 - [ ] Address comments from copy-editing
 - [ ] Send out for revision (x2)
 - [ ] Address comments from revisions
