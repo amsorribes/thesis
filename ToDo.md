@@ -141,8 +141,8 @@ Post-writing:
 Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 -------------------------------------------------------------
 Finalizing:
-- [ ] Clean chapter of notes and todo's and slasks
-- [ ] Review all todoNotes in the document!
+- [x] Clean chapter of notes and todo's and slasks
+- [x] Review all todoNotes in the document!
 
 Post-writing:
 - [ ] Send out for copy-editing
@@ -162,16 +162,6 @@ Post-writing:
 	- [x] Remove from tex-file: chapter outline
 	- [x] Figures
 		- [x] Wake and Sleep Distributions in Mammals
-
-- [ ] Fine-Scale Dynamics of Sleep in Drosophila
-	- [ ] Introduction
-		- [ ] Sleep in Drosophila
-		- [ ] The fine-scale dynamics of sleep in Drosophila has never been studied before
-		- [ ] What we did to fill this gap
-	- [ ] Results & Discussion
-	- [ ] Conclusions
-	- [ ] Material and Methods
-	- [ ] Figures
 
 - [x] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
 	- [x] Introduction
@@ -197,12 +187,6 @@ Post-writing:
 		- [x] Zebrafish Sleep-Wake Structure (with caption)
 		- [x] Sleep-Wake Dynamics in Humans and Zebrafish (with caption)
 		- [x] Individual Sleep-Wake Distribution in Zebrafish (with caption)
-
-
-- [ ] Chapter Summary
-	- [ ] Introduction & Background
-	- [ ] Fine-Scale Dynamics of Sleep in Drosophila
-	- [ ] The ontogeny of sleep-wake cycles in zebrafish: a comparison with humans
 
 
 
