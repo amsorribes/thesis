@@ -179,16 +179,12 @@ Post-writing:
 		- [x] Intro-section
 		- [x] Human Sleep & Wake Bout Structure
 		- [x] Zebrafish Sleep & Wake Bout Structure
-		- [ ] Sleep-Wake Dynamics in Humans and Zebrafish Across Ontogeny
+		- [x] Sleep-Wake Dynamics in Humans and Zebrafish Across Ontogeny
 			- [x] Intro on method
 				- [x] Models
 				- [x] Method
-			- [x] Sleep-Wake Structure
-				- [x] Humans
-				- [x] Zebrafish
-			- [x] Sleep-Wake Dynamics
-				- [x] Humans
-				- [x] Zebrafish
+			- [x] Human Sleep-Wake Dynamics
+			- [x] Zebrafish Sleep-Wake Dynamics
 			- [x] Comparison
 	- [x] Conclusions
 	- [x] Material and Methods
