@@ -189,7 +189,7 @@ Post-writing:
 			- [x] Sleep-Wake Dynamics
 				- [x] Humans
 				- [x] Zebrafish
-			- [ ] Comparison
+			- [x] Comparison
 	- [ ] Conclusions
 	- [x] Material and Methods
 		- [x] Human Sleep Data
