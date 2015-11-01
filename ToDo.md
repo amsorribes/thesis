@@ -190,7 +190,7 @@ Post-writing:
 				- [x] Humans
 				- [x] Zebrafish
 			- [x] Comparison
-	- [ ] Conclusions
+	- [x] Conclusions
 	- [x] Material and Methods
 		- [x] Human Sleep Data
 		- [x] Zebrafish Sleep Data
