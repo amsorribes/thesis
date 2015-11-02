@@ -19,7 +19,7 @@ Document Set-Up
 
 Chapter 1: Introduction
 -----------------------
-- [ ] Introduction
+- [x] Introduction
 	- [x] Background and Motivation
 	- [x] Presentation of Chapters
 
