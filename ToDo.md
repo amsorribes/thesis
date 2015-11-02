@@ -19,7 +19,9 @@ Document Set-Up
 
 Chapter 1: Introduction
 -----------------------
-- [ ] Structure content and paragraphs
+- [ ] Introduction
+	- [ ] Background and Motivation
+	- [ ] Presentation of Chapters
 
 
 
