@@ -21,7 +21,7 @@ Chapter 1: Introduction
 -----------------------
 - [ ] Introduction
 	- [x] Background and Motivation
-	- [ ] Presentation of Chapters
+	- [x] Presentation of Chapters
 
 
 
