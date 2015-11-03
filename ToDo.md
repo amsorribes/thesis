@@ -242,14 +242,14 @@ Conclusions & Conclusiones
  
 Abstract
 --------
-- [ ] Make outline of parts/paragraphs
+- [x] Make outline of parts/paragraphs
 - [ ] Write Abstract
 
 
 Resumen
 -------
-- [ ] Make outline of the parts/paragraphs in Spanish
-- [ ] Write Resumen in Spanish
+- [ ] Translate Abstract to Spanish
+- [ ] Get it corrected
 
 
 Acknowledgments
