@@ -248,7 +248,7 @@ Abstract
 
 Resumen
 -------
-- [ ] Translate Abstract to Spanish
+- [x] Translate Abstract to Spanish
 - [ ] Get it corrected
 
 
