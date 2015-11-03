@@ -243,7 +243,7 @@ Conclusions & Conclusiones
 Abstract
 --------
 - [x] Make outline of parts/paragraphs
-- [ ] Write Abstract
+- [x] Write Abstract
 
 
 Resumen
