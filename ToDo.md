@@ -144,7 +144,7 @@ Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 -------------------------------------------------------------
 Post-writing:
 - [x] Send out for copy-editing
-- [ ] Address comments from copy-editing
+- [x] Address comments from copy-editing
 - [x] Send out for revision (x2)
 - [ ] Address comments from revisions
 
