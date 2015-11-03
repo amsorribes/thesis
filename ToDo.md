@@ -249,7 +249,7 @@ Abstract
 Resumen
 -------
 - [x] Translate Abstract to Spanish
-- [ ] Get it corrected
+- [x] Get it corrected
 
 
 Acknowledgments
