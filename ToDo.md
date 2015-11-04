@@ -218,10 +218,10 @@ Post-writing:
 - [ ] Electrophysiological Study of the DmIh NMJ
 	- [ ] Introduction
 		- [x] Decide how much of the other results to present
-	- [ ] Results & Discussion
-		- [ ] minis & EJPs
-		- [ ] Dynamics
-		- [ ] Blocker
+	- [x] Results & Discussion
+		- [x] minis & EJPs
+		- [x] Dynamics
+		- [x] Blocker
 	- [ ] Conclusions
 	- [x] Material and Methods
 	- [ ] Figures
