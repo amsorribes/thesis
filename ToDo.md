@@ -22,7 +22,7 @@ Chapter 1: Introduction
 - [x] Introduction
 	- [x] Background and Motivation
 	- [x] Presentation of Chapters
-
+- [x] Send out for review
 
 
 Chapter 2: Drosophila as a Model Organism for Studying Bursts
@@ -237,12 +237,14 @@ Conclusions & Conclusiones
 --------------------------
 - [x] Write conclusions
 - [x] Write Spanish translation
+- [x] Send out for review
 
  
 Abstract
 --------
 - [x] Make outline of parts/paragraphs
 - [x] Write Abstract
+- [x] Send out for review
 
 
 Resumen
