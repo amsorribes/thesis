@@ -222,7 +222,7 @@ Post-writing:
 		- [x] minis & EJPs
 		- [x] Dynamics
 		- [x] Blocker
-	- [ ] Conclusions
+	- [x] Conclusions
 	- [x] Material and Methods
 	- [ ] Figures
 
