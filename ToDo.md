@@ -224,7 +224,11 @@ Post-writing:
 		- [x] Blocker
 	- [x] Conclusions
 	- [x] Material and Methods
-	- [ ] Figures
+	- [x] Figures
+		- [x] Miniature Spontaneous Neurotransmitter Release
+		- [x] Characteristics of the Evoked Junction Potentials
+		- [x] Adaptation Effect to a Variable Stimulus
+		- [x] Effect of Pharmacological Ih Blocker
 
 - [ ] Chapter Summary
 	- [ ] Introduction & Background
