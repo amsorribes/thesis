@@ -236,7 +236,7 @@ Post-writing:
 Conclusions & Conclusiones
 --------------------------
 - [x] Write conclusions
-- [ ] Write Spanish translation
+- [x] Write Spanish translation
 
  
 Abstract
