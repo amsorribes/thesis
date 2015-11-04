@@ -235,8 +235,7 @@ Post-writing:
 
 Conclusions & Conclusiones
 --------------------------
-- [ ] Make list of conclusions
-- [ ] Write list of conclusions
+- [x] Write conclusions
 - [ ] Write Spanish translation
 
  
