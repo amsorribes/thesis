@@ -216,7 +216,7 @@ Post-writing:
 	- [ ] Figures
 
 - [ ] Electrophysiological Study of the DmIh NMJ
-	- [ ] Introduction
+	- [x] Introduction
 		- [x] Decide how much of the other results to present
 	- [x] Results & Discussion
 		- [x] minis & EJPs
