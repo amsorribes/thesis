@@ -215,7 +215,7 @@ Post-writing:
 	- [ ] Material and Methods
 	- [ ] Figures
 
-- [ ] Electrophysiological Study of the DmIh NMJ
+- [x] Electrophysiological Study of the DmIh NMJ
 	- [x] Introduction
 		- [x] Decide how much of the other results to present
 	- [x] Results & Discussion
