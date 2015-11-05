@@ -267,10 +267,9 @@ Thesis Title
 ------------
 - [x] Think of several titles to choose between
 - [x] Decide on preliminary title
-- [ ] Get feedback on title
-- [ ] When decided, write title on
-	- [ ] Title page
-	- [ ] Styles page, for pdf hyperref
+- [x] When decided, write title on
+	- [x] Title page
+	- [x] Styles page, for pdf hyperref
 
 Finally
 -------
