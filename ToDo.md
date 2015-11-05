@@ -208,8 +208,8 @@ Post-writing:
 
 
 - [ ] Sleep Dynamics in the DmIh Mutant 
-	- [ ] Introduction
-		- [ ] Sleep & Dopamine and Ih
+	- [x] Introduction
+		- [x] Sleep & Dopamine and Ih
 	- [ ] Results & Discussion
 	- [ ] Conclusions
 	- [ ] Material and Methods
