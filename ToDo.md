@@ -3,13 +3,13 @@ ToDo-List
 
 Paperwork to Deposit
 --------------------
-- [ ] Solicitud de autorización
+- [x] Solicitud de autorización
 - [ ] Tesis encuadernada
-- [ ] CD con tesis
+- [x] CD con tesis
 - [x] Curriculum Vitae
 - [x] Justificante de inscripción de la tutela académica
 - [x] Informe motivado del director
-- [ ] Propuesta de tribunal
+- [x] Propuesta de tribunal
 
 
 Document Set-Up
@@ -222,11 +222,6 @@ Post-writing:
 		- [x] Characteristics of the Evoked Junction Potentials
 		- [x] Adaptation Effect to a Variable Stimulus
 		- [x] Effect of Pharmacological Ih Blocker
-
-- [ ] Chapter Summary
-	- [ ] Introduction & Background
-	- [ ] Sleep Dynamics in the DmIh Mutant 
-	- [ ] Electrophysiological Study of the DmIh NMJ
 
 
 
