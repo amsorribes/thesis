@@ -203,13 +203,12 @@ Post-writing:
 ### Chapter 5: Parts ###
 - [ ] Overview
 
-- [ ] Introduction & Background
+- [x] Introduction & Background
 	- [x] The Ih Current
-
+	- [x] Sleep & Dopamine and Ih
 
 - [ ] Sleep Dynamics in the DmIh Mutant 
 	- [x] Introduction
-		- [x] Sleep & Dopamine and Ih
 	- [ ] Results & Discussion
 	- [ ] Conclusions
 	- [ ] Material and Methods
