@@ -1,20 +1,16 @@
 ToDo-List
 =========
 
-Paperwork to Deposit
---------------------
-- [x] Solicitud de autorización
-- [x] Tesis encuadernada
-- [x] CD con tesis
-- [x] Curriculum Vitae
-- [x] Justificante de inscripción de la tutela académica
-- [x] Informe motivado del director
-- [x] Propuesta de tribunal
+Formatting
+----------
+- [ ] Add crop-page to print version
+- [ ] Change color of pdf-links to dark gray in the pdf-version
 
 
-Document Set-Up
----------------
-- [ ] Make nomencl package work? It used to, not anymore. Looked for solution, didn't find one. Possibly later, if time.
+Front-Matter
+-------------------
+- [x] Abstract
+- [x] Resumen
 
 
 Chapter 1: Introduction
@@ -27,13 +23,6 @@ Chapter 1: Introduction
 
 Chapter 2: Drosophila as a Model Organism for Studying Bursts
 -------------------------------------------------------------
-Post-writing:
-- [x] Send out for proof reading
-- [x] Address comments from proof readings
-- [x] Incorporate suggestions from review 1
-- [x] Send out for review 2
-
-### Chapter 2: Parts ###
 - [x] Overview
 
 - [x] Drosophila melanogaster as a Model Organism
@@ -60,19 +49,10 @@ Post-writing:
 		- [x] Counts to bouts illustration (BW)
 		- [x] Poisson, burstiness and memory
 
-- [x] Chapter Summary
 
 
 Chapter 3: Bursty Activity Dynamics in Drosophila melanogaster
 --------------------------------------------------------------
-Post-writing:
-- [x] Send out for copy-editing
-- [x] Address comments from copy-editing
-- [x] Send out for revision (x2)
-- [x] Address comments from revisions
-
-
-### Chapter 3: Parts ###
 - [x] Overview
 
 - [x] Introduction & Background
@@ -86,7 +66,7 @@ Post-writing:
 		- [x] Y-Maze and Torque Meter
 		- [x] Circadian activity pattern
 
-- [ ] Dynamics of Spontaneous Walking Activity in \dro
+- [x] Dynamics of Spontaneous Walking Activity in \dro
 	- [x] Think of section title
 	- [x] Introduction
 		- [x] What's been done in Drosophila (walking) before
@@ -97,14 +77,13 @@ Post-writing:
 		- [x] Burstiness in \dro is described by a Weibull distribution
 		- [x] The fitting technique correctly estimates the parameters
 		- [x] Burstiness in walking \dro is mainly due to the inter-event distribution and not to memory effects
-			- [ ] DFA, add?
 	- [x] Conclusions
 	- [x] Material and Methods
 		- [x] Flies & Rearing
 		- [x] Locomotor Activity Assay
 		- [x] Data Analysis
 		- [x] Statistical Analysis
-	- [ ] Figures
+	- [x] Figures
 		- [x] Circadian activity pattern
 		- [x] Activity Raster Plot
 		- [x] WT Shape parameter k
@@ -112,7 +91,6 @@ Post-writing:
 		- [x] Validation, Fits
 		- [x] Activity and Burstiness
 		- [x] B-M plot
-		- [ ] DFA ??
 
 - [x]  Behavioral Bursts and Decision-Making Circuits
 	- [x] Introduction
@@ -133,22 +111,10 @@ Post-writing:
 		- [x]  MBs: Activity & Burstiness
 		- [x]  CCX: Burstiness & Memory
 
-- [x] Chapter Summary
-	- [x] Summarize Introduction & Background
-	- [x] Dynamics of Spontaneous Walking Activity in \dro
-	- [x] Behavioral Bursts and Decision-Making Circuits
-
 
 
 Chapter 4: Sleep Dynamics in Flies and Fish / Model Organisms
 -------------------------------------------------------------
-Post-writing:
-- [x] Send out for copy-editing
-- [x] Address comments from copy-editing
-- [x] Send out for revision (x2)
-- [ ] Address comments from revisions
-
-### Chapter 4: Parts ###
 - [ ] Overview
 
 - [x] Introduction & Background
@@ -198,10 +164,11 @@ Post-writing:
 - [ ] Overview
 
 - [x] Introduction & Background
+	- [ ] Larval NMJ
+	- [ ] Electrophysiology
 	- [x] The Ih Current
-	- [x] Sleep & Dopamine and Ih
 
-- [ ] Sleep Dynamics in the DmIh Mutant 
+- [ ] Sleep Dynamics in the DmIh Mutant
 	- [x] Introduction
 	- [ ] Results & Discussion
 	- [ ] Conclusions
@@ -210,7 +177,6 @@ Post-writing:
 
 - [x] Electrophysiological Study of the DmIh NMJ
 	- [x] Introduction
-		- [x] Decide how much of the other results to present
 	- [x] Results & Discussion
 		- [x] minis & EJPs
 		- [x] Dynamics
@@ -224,52 +190,8 @@ Post-writing:
 		- [x] Effect of Pharmacological Ih Blocker
 
 
-
-Conclusions & Conclusiones
---------------------------
-- [x] Write conclusions
-- [x] Write Spanish translation
-- [x] Send out for review
-
- 
-Abstract
---------
-- [x] Make outline of parts/paragraphs
-- [x] Write Abstract
-- [x] Send out for review
-
-
-Resumen
--------
-- [x] Translate Abstract to Spanish
-- [x] Get it corrected
-
-
-Acknowledgments
----------------
-- [ ] Make list of everyone you can think that has been a part of this journey!
-- [ ] Make outline of what goes where
-- [ ] Draft (ok by sections)
-
-
-Dedication
-----------
-- [ ] Do I want one?
-	- [ ] If yes, write
-
-
-Thesis Title
-------------
-- [x] Think of several titles to choose between
-- [x] Decide on preliminary title
-- [x] When decided, write title on
-	- [x] Title page
-	- [x] Styles page, for pdf hyperref
-
-Finally
--------
-- [x] Add Month and Year to title
-
-PDF-Version (Not print version!)
+Back-Matter
 -----------
-- [ ] Make pdf-links dark gray
+- [x] Conclusions
+- [x] Conclusiones
+
