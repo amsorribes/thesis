@@ -4,7 +4,7 @@ ToDo-List
 Paperwork to Deposit
 --------------------
 - [x] Solicitud de autorización
-- [ ] Tesis encuadernada
+- [x] Tesis encuadernada
 - [x] CD con tesis
 - [x] Curriculum Vitae
 - [x] Justificante de inscripción de la tutela académica
